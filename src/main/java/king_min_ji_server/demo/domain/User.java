@@ -23,7 +23,10 @@ public class User extends BaseEntity {
     private String name;
 
     @Column(nullable = false, length = 30)
-    private String boj_id;
+    private String bojId;
+
+    @Column(nullable = false, length = 100)
+    private String password;
 
     @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
     private Point point;
