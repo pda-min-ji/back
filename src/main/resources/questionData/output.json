@@ -1,0 +1,8925 @@
+[
+  {
+    "url": "https://www.acmicpc.net/problem/1003",
+    "number": "1003",
+    "title": "피보나치 함수",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1005",
+    "number": "1005",
+    "title": "ACM Craft",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "방향 비순환 그래프",
+      "위상 정렬",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1010",
+    "number": "1010",
+    "title": "다리 놓기",
+    "level": 6,
+    "tags": [
+      "조합론",
+      "수학",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1012",
+    "number": "1012",
+    "title": "유기농 배추",
+    "level": 9,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1018",
+    "number": "1018",
+    "title": "체스판 다시 칠하기",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1021",
+    "number": "1021",
+    "title": "회전하는 큐",
+    "level": 8,
+    "tags": [
+      "덱",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1022",
+    "number": "1022",
+    "title": "소용돌이 예쁘게 출력하기",
+    "level": 13,
+    "tags": [
+      "수학",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1025",
+    "number": "1025",
+    "title": "제곱수 찾기",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1030",
+    "number": "1030",
+    "title": "프렉탈 평면",
+    "level": 13,
+    "tags": [
+      "분할 정복",
+      "구현",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1038",
+    "number": "1038",
+    "title": "감소하는 수",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1043",
+    "number": "1043",
+    "title": "거짓말",
+    "level": 12,
+    "tags": [
+      "분리 집합",
+      "자료 구조",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1045",
+    "number": "1045",
+    "title": "도로",
+    "level": 15,
+    "tags": [
+      "그리디 알고리즘",
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1058",
+    "number": "1058",
+    "title": "친구",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘",
+      "플로이드–워셜",
+      "최단 경로",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1059",
+    "number": "1059",
+    "title": "좋은 구간",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "브루트포스 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1062",
+    "number": "1062",
+    "title": "가르침",
+    "level": 12,
+    "tags": [
+      "백트래킹",
+      "비트마스킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1065",
+    "number": "1065",
+    "title": "한수",
+    "level": 7,
+    "tags": [
+      "수학",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1068",
+    "number": "1068",
+    "title": "트리",
+    "level": 11,
+    "tags": [
+      "트리",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1072",
+    "number": "1072",
+    "title": "게임",
+    "level": 8,
+    "tags": [
+      "이분 탐색",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1074",
+    "number": "1074",
+    "title": "Z",
+    "level": 11,
+    "tags": [
+      "재귀",
+      "분할 정복"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1080",
+    "number": "1080",
+    "title": "행렬",
+    "level": 10,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1082",
+    "number": "1082",
+    "title": "방 번호",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1092",
+    "number": "1092",
+    "title": "배",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1106",
+    "number": "1106",
+    "title": "호텔",
+    "level": 12,
+    "tags": [
+      "배낭 문제",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1107",
+    "number": "1107",
+    "title": "리모컨",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1120",
+    "number": "1120",
+    "title": "문자열",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1135",
+    "number": "1135",
+    "title": "뉴스 전하기",
+    "level": 14,
+    "tags": [
+      "그리디 알고리즘",
+      "트리",
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1149",
+    "number": "1149",
+    "title": "RGB거리",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1158",
+    "number": "1158",
+    "title": "요세푸스 문제",
+    "level": 7,
+    "tags": [
+      "구현",
+      "큐",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1166",
+    "number": "1166",
+    "title": "선물",
+    "level": 8,
+    "tags": [
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1167",
+    "number": "1167",
+    "title": "트리의 지름",
+    "level": 14,
+    "tags": [
+      "깊이 우선 탐색",
+      "트리",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1174",
+    "number": "1174",
+    "title": "줄어드는 수",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1181",
+    "number": "1181",
+    "title": "단어 정렬",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1182",
+    "number": "1182",
+    "title": "부분수열의 합",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1189",
+    "number": "1189",
+    "title": "컴백홈",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "백트래킹",
+      "그래프 탐색",
+      "브루트포스 알고리즘",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1197",
+    "number": "1197",
+    "title": "최소 스패닝 트리",
+    "level": 12,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1213",
+    "number": "1213",
+    "title": "팰린드롬 만들기",
+    "level": 8,
+    "tags": [
+      "문자열",
+      "그리디 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1238",
+    "number": "1238",
+    "title": "파티",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1240",
+    "number": "1240",
+    "title": "노드사이의 거리",
+    "level": 11,
+    "tags": [
+      "트리",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1244",
+    "number": "1244",
+    "title": "스위치 켜고 끄기",
+    "level": 7,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1248",
+    "number": "1248",
+    "title": "Guess",
+    "level": 13,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1251",
+    "number": "1251",
+    "title": "단어 나누기",
+    "level": 6,
+    "tags": [
+      "정렬",
+      "문자열",
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1254",
+    "number": "1254",
+    "title": "팰린드롬 만들기",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1260",
+    "number": "1260",
+    "title": "DFS와 BFS",
+    "level": 9,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1269",
+    "number": "1269",
+    "title": "대칭 차집합",
+    "level": 7,
+    "tags": [
+      "트리를 사용한 집합과 맵",
+      "해시를 사용한 집합과 맵",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1277",
+    "number": "1277",
+    "title": "발전소 설치",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "그래프 이론",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1283",
+    "number": "1283",
+    "title": "단축키 지정",
+    "level": 10,
+    "tags": [
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1300",
+    "number": "1300",
+    "title": "K번째 수",
+    "level": 15,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1301",
+    "number": "1301",
+    "title": "비즈 공예",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1302",
+    "number": "1302",
+    "title": "베스트셀러",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "해시를 사용한 집합과 맵",
+      "자료 구조",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1303",
+    "number": "1303",
+    "title": "전쟁 - 전투",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1309",
+    "number": "1309",
+    "title": "동물원",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1316",
+    "number": "1316",
+    "title": "그룹 단어 체커",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1325",
+    "number": "1325",
+    "title": "효율적인 해킹",
+    "level": 10,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1342",
+    "number": "1342",
+    "title": "행운의 문자열",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1343",
+    "number": "1343",
+    "title": "폴리오미노",
+    "level": 6,
+    "tags": [
+      "구현",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1359",
+    "number": "1359",
+    "title": "복권",
+    "level": 7,
+    "tags": [
+      "조합론",
+      "수학",
+      "브루트포스 알고리즘",
+      "확률론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1368",
+    "number": "1368",
+    "title": "물대기",
+    "level": 14,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1374",
+    "number": "1374",
+    "title": "강의실",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "우선순위 큐",
+      "자료 구조",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1389",
+    "number": "1389",
+    "title": "케빈 베이컨의 6단계 법칙",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "플로이드–워셜",
+      "최단 경로",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1406",
+    "number": "1406",
+    "title": "에디터",
+    "level": 9,
+    "tags": [
+      "자료 구조",
+      "연결 리스트",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1411",
+    "number": "1411",
+    "title": "비슷한 단어",
+    "level": 9,
+    "tags": [
+      "문자열",
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1414",
+    "number": "1414",
+    "title": "불우이웃돕기",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "문자열",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1421",
+    "number": "1421",
+    "title": "나무꾼 이다솜",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1436",
+    "number": "1436",
+    "title": "영화감독 숌",
+    "level": 6,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1439",
+    "number": "1439",
+    "title": "뒤집기",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1445",
+    "number": "1445",
+    "title": "일요일 아침의 데이트",
+    "level": 14,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1446",
+    "number": "1446",
+    "title": "지름길",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "다이나믹 프로그래밍",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1449",
+    "number": "1449",
+    "title": "수리공 항승",
+    "level": 8,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1455",
+    "number": "1455",
+    "title": "뒤집기 II",
+    "level": 10,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1463",
+    "number": "1463",
+    "title": "1로 만들기",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1469",
+    "number": "1469",
+    "title": "숌 사이 수열",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1474",
+    "number": "1474",
+    "title": "밑 줄",
+    "level": 10,
+    "tags": [
+      "문자열",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1477",
+    "number": "1477",
+    "title": "휴게소 세우기",
+    "level": 12,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1484",
+    "number": "1484",
+    "title": "다이어트",
+    "level": 11,
+    "tags": [
+      "두 포인터",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1487",
+    "number": "1487",
+    "title": "물건 팔기",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1493",
+    "number": "1493",
+    "title": "박스 채우기",
+    "level": 14,
+    "tags": [
+      "수학",
+      "그리디 알고리즘",
+      "분할 정복"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1495",
+    "number": "1495",
+    "title": "기타리스트",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1497",
+    "number": "1497",
+    "title": "기타콘서트",
+    "level": 10,
+    "tags": [
+      "비트마스킹",
+      "조합론",
+      "백트래킹",
+      "브루트포스 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1503",
+    "number": "1503",
+    "title": "세 수 고르기",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1504",
+    "number": "1504",
+    "title": "특정한 최단 경로",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "그래프 이론",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1507",
+    "number": "1507",
+    "title": "궁금한 민호",
+    "level": 14,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "플로이드–워셜"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1516",
+    "number": "1516",
+    "title": "게임 개발",
+    "level": 13,
+    "tags": [
+      "방향 비순환 그래프",
+      "그래프 이론",
+      "다이나믹 프로그래밍",
+      "위상 정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1520",
+    "number": "1520",
+    "title": "내리막 길",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1527",
+    "number": "1527",
+    "title": "금민수의 개수",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1535",
+    "number": "1535",
+    "title": "안녕",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "브루트포스 알고리즘",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1541",
+    "number": "1541",
+    "title": "잃어버린 괄호",
+    "level": 9,
+    "tags": [
+      "문자열",
+      "수학",
+      "파싱",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1543",
+    "number": "1543",
+    "title": "문서 검색",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1548",
+    "number": "1548",
+    "title": "부분 삼각 수열",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1553",
+    "number": "1553",
+    "title": "도미노 찾기",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1561",
+    "number": "1561",
+    "title": "놀이 공원",
+    "level": 15,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1577",
+    "number": "1577",
+    "title": "도로의 개수",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1581",
+    "number": "1581",
+    "title": "락스타 락동호",
+    "level": 12,
+    "tags": [
+      "많은 조건 분기"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1595",
+    "number": "1595",
+    "title": "북쪽나라의 도로",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "트리",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1600",
+    "number": "1600",
+    "title": "말이 되고픈 원숭이",
+    "level": 13,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1613",
+    "number": "1613",
+    "title": "역사",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "플로이드–워셜"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1620",
+    "number": "1620",
+    "title": "나는야 포켓몬 마스터 이다솜",
+    "level": 7,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1622",
+    "number": "1622",
+    "title": "공통 순열",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1633",
+    "number": "1633",
+    "title": "최고의 팀 만들기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1647",
+    "number": "1647",
+    "title": "도시 분할 계획",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1654",
+    "number": "1654",
+    "title": "랜선 자르기",
+    "level": 9,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1655",
+    "number": "1655",
+    "title": "가운데를 말해요",
+    "level": 14,
+    "tags": [
+      "자료 구조",
+      "우선순위 큐"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1660",
+    "number": "1660",
+    "title": "캡틴 이다솜",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1669",
+    "number": "1669",
+    "title": "멍멍이 쓰다듬기",
+    "level": 11,
+    "tags": [
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1689",
+    "number": "1689",
+    "title": "겹치는 선분",
+    "level": 12,
+    "tags": [
+      "스위핑",
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1695",
+    "number": "1695",
+    "title": "팰린드롬 만들기",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1697",
+    "number": "1697",
+    "title": "숨바꼭질",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1699",
+    "number": "1699",
+    "title": "제곱수의 합",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1713",
+    "number": "1713",
+    "title": "후보 추천하기",
+    "level": 10,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1715",
+    "number": "1715",
+    "title": "카드 정렬하기",
+    "level": 12,
+    "tags": [
+      "그리디 알고리즘",
+      "우선순위 큐",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1717",
+    "number": "1717",
+    "title": "집합의 표현",
+    "level": 11,
+    "tags": [
+      "분리 집합",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1719",
+    "number": "1719",
+    "title": "택배",
+    "level": 13,
+    "tags": [
+      "데이크스트라",
+      "최단 경로",
+      "플로이드–워셜",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1726",
+    "number": "1726",
+    "title": "로봇",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1727",
+    "number": "1727",
+    "title": "커플 만들기",
+    "level": 14,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1743",
+    "number": "1743",
+    "title": "음식물 피하기",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1744",
+    "number": "1744",
+    "title": "수 묶기",
+    "level": 12,
+    "tags": [
+      "많은 조건 분기",
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1749",
+    "number": "1749",
+    "title": "점수따먹기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "브루트포스 알고리즘",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1753",
+    "number": "1753",
+    "title": "최단경로",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "데이크스트라",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1757",
+    "number": "1757",
+    "title": "달려달려",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1758",
+    "number": "1758",
+    "title": "알바생 강호",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1759",
+    "number": "1759",
+    "title": "암호 만들기",
+    "level": 11,
+    "tags": [
+      "조합론",
+      "브루트포스 알고리즘",
+      "수학",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1764",
+    "number": "1764",
+    "title": "듣보잡",
+    "level": 7,
+    "tags": [
+      "문자열",
+      "정렬",
+      "해시를 사용한 집합과 맵",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1766",
+    "number": "1766",
+    "title": "문제집",
+    "level": 14,
+    "tags": [
+      "자료 구조",
+      "위상 정렬",
+      "방향 비순환 그래프",
+      "그래프 이론",
+      "우선순위 큐"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1774",
+    "number": "1774",
+    "title": "우주신과의 교감",
+    "level": 13,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1780",
+    "number": "1780",
+    "title": "종이의 개수",
+    "level": 9,
+    "tags": [
+      "재귀",
+      "분할 정복"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1789",
+    "number": "1789",
+    "title": "수들의 합",
+    "level": 6,
+    "tags": [
+      "그리디 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1799",
+    "number": "1799",
+    "title": "비숍",
+    "level": 15,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1806",
+    "number": "1806",
+    "title": "부분합",
+    "level": 12,
+    "tags": [
+      "두 포인터",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1817",
+    "number": "1817",
+    "title": "짐 챙기는 숌",
+    "level": 6,
+    "tags": [
+      "구현",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1823",
+    "number": "1823",
+    "title": "수확",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1863",
+    "number": "1863",
+    "title": "스카이라인 쉬운거",
+    "level": 12,
+    "tags": [
+      "자료 구조",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1874",
+    "number": "1874",
+    "title": "스택 수열",
+    "level": 9,
+    "tags": [
+      "자료 구조",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1890",
+    "number": "1890",
+    "title": "점프",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1895",
+    "number": "1895",
+    "title": "필터",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1912",
+    "number": "1912",
+    "title": "연속합",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1913",
+    "number": "1913",
+    "title": "달팽이",
+    "level": 8,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1915",
+    "number": "1915",
+    "title": "가장 큰 정사각형",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1916",
+    "number": "1916",
+    "title": "최소비용 구하기",
+    "level": 11,
+    "tags": [
+      "그래프 이론",
+      "데이크스트라",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1918",
+    "number": "1918",
+    "title": "후위 표기식",
+    "level": 14,
+    "tags": [
+      "자료 구조",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1920",
+    "number": "1920",
+    "title": "수 찾기",
+    "level": 7,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "정렬",
+      "자료 구조",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1922",
+    "number": "1922",
+    "title": "네트워크 연결",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1926",
+    "number": "1926",
+    "title": "그림",
+    "level": 10,
+    "tags": [
+      "깊이 우선 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1927",
+    "number": "1927",
+    "title": "최소 힙",
+    "level": 9,
+    "tags": [
+      "우선순위 큐",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1931",
+    "number": "1931",
+    "title": "회의실 배정",
+    "level": 10,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1932",
+    "number": "1932",
+    "title": "정수 삼각형",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1935",
+    "number": "1935",
+    "title": "후위 표기식2",
+    "level": 8,
+    "tags": [
+      "자료 구조",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1937",
+    "number": "1937",
+    "title": "욕심쟁이 판다",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "다이나믹 프로그래밍",
+      "깊이 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1939",
+    "number": "1939",
+    "title": "중량제한",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "분리 집합",
+      "이분 탐색",
+      "너비 우선 탐색",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1940",
+    "number": "1940",
+    "title": "주몽",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1941",
+    "number": "1941",
+    "title": "소문난 칠공주",
+    "level": 13,
+    "tags": [
+      "너비 우선 탐색",
+      "백트래킹",
+      "수학",
+      "그래프 탐색",
+      "브루트포스 알고리즘",
+      "조합론",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1943",
+    "number": "1943",
+    "title": "동전 분배",
+    "level": 14,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1944",
+    "number": "1944",
+    "title": "복제 로봇",
+    "level": 15,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1946",
+    "number": "1946",
+    "title": "신입 사원",
+    "level": 10,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1949",
+    "number": "1949",
+    "title": "우수 마을",
+    "level": 14,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리",
+      "트리에서의 다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1956",
+    "number": "1956",
+    "title": "운동",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "그래프 이론",
+      "플로이드–워셜"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1958",
+    "number": "1958",
+    "title": "LCS 3",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1965",
+    "number": "1965",
+    "title": "상자넣기",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1966",
+    "number": "1966",
+    "title": "프린터 큐",
+    "level": 8,
+    "tags": [
+      "큐",
+      "시뮬레이션",
+      "자료 구조",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1967",
+    "number": "1967",
+    "title": "트리의 지름",
+    "level": 12,
+    "tags": [
+      "트리",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1969",
+    "number": "1969",
+    "title": "DNA",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘",
+      "그리디 알고리즘",
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1972",
+    "number": "1972",
+    "title": "놀라운 문자열",
+    "level": 8,
+    "tags": [
+      "자료 구조",
+      "구현",
+      "해시를 사용한 집합과 맵",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1976",
+    "number": "1976",
+    "title": "여행 가자",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "자료 구조",
+      "분리 집합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1987",
+    "number": "1987",
+    "title": "알파벳",
+    "level": 12,
+    "tags": [
+      "깊이 우선 탐색",
+      "백트래킹",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1991",
+    "number": "1991",
+    "title": "트리 순회",
+    "level": 10,
+    "tags": [
+      "트리",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/1992",
+    "number": "1992",
+    "title": "쿼드트리",
+    "level": 10,
+    "tags": [
+      "분할 정복",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2003",
+    "number": "2003",
+    "title": "수들의 합 2",
+    "level": 7,
+    "tags": [
+      "누적 합",
+      "브루트포스 알고리즘",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2011",
+    "number": "2011",
+    "title": "암호코드",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2015",
+    "number": "2015",
+    "title": "수들의 합 4",
+    "level": 12,
+    "tags": [
+      "트리를 사용한 집합과 맵",
+      "해시를 사용한 집합과 맵",
+      "자료 구조",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2018",
+    "number": "2018",
+    "title": "수들의 합 5",
+    "level": 6,
+    "tags": [
+      "수학",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2026",
+    "number": "2026",
+    "title": "소풍",
+    "level": 14,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2056",
+    "number": "2056",
+    "title": "작업",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "방향 비순환 그래프",
+      "위상 정렬",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2058",
+    "number": "2058",
+    "title": "원자의 에너지",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리",
+      "트리에서의 다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2073",
+    "number": "2073",
+    "title": "수도배관공사",
+    "level": 12,
+    "tags": [
+      "배낭 문제",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2075",
+    "number": "2075",
+    "title": "N번째 큰 수",
+    "level": 9,
+    "tags": [
+      "자료 구조",
+      "우선순위 큐",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2109",
+    "number": "2109",
+    "title": "순회강연",
+    "level": 13,
+    "tags": [
+      "자료 구조",
+      "그리디 알고리즘",
+      "정렬",
+      "우선순위 큐"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2110",
+    "number": "2110",
+    "title": "공유기 설치",
+    "level": 12,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2115",
+    "number": "2115",
+    "title": "갤러리",
+    "level": 11,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2118",
+    "number": "2118",
+    "title": "두 개의 탑",
+    "level": 11,
+    "tags": [
+      "두 포인터",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2138",
+    "number": "2138",
+    "title": "전구와 스위치",
+    "level": 12,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2141",
+    "number": "2141",
+    "title": "우체국",
+    "level": 12,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2143",
+    "number": "2143",
+    "title": "두 배열의 합",
+    "level": 13,
+    "tags": [
+      "자료 구조",
+      "이분 탐색",
+      "해시를 사용한 집합과 맵",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2146",
+    "number": "2146",
+    "title": "다리 만들기",
+    "level": 13,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2151",
+    "number": "2151",
+    "title": "거울 설치",
+    "level": 13,
+    "tags": [
+      "너비 우선 탐색",
+      "데이크스트라",
+      "최단 경로",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2156",
+    "number": "2156",
+    "title": "포도주 시식",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2157",
+    "number": "2157",
+    "title": "여행",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2164",
+    "number": "2164",
+    "title": "카드2",
+    "level": 7,
+    "tags": [
+      "큐",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2167",
+    "number": "2167",
+    "title": "2차원 배열의 합",
+    "level": 6,
+    "tags": [
+      "구현",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2178",
+    "number": "2178",
+    "title": "미로 탐색",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2193",
+    "number": "2193",
+    "title": "이친수",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2194",
+    "number": "2194",
+    "title": "유닛 이동시키기",
+    "level": 12,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2206",
+    "number": "2206",
+    "title": "벽 부수고 이동하기",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2211",
+    "number": "2211",
+    "title": "네트워크 복구",
+    "level": 14,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2212",
+    "number": "2212",
+    "title": "센서",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2213",
+    "number": "2213",
+    "title": "트리의 독립집합",
+    "level": 15,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2217",
+    "number": "2217",
+    "title": "로프",
+    "level": 7,
+    "tags": [
+      "수학",
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2224",
+    "number": "2224",
+    "title": "명제 증명",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "플로이드–워셜",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2225",
+    "number": "2225",
+    "title": "합분해",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2228",
+    "number": "2228",
+    "title": "구간 나누기",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2229",
+    "number": "2229",
+    "title": "조 짜기",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2230",
+    "number": "2230",
+    "title": "수 고르기",
+    "level": 11,
+    "tags": [
+      "정렬",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2233",
+    "number": "2233",
+    "title": "사과나무",
+    "level": 14,
+    "tags": [
+      "최소 공통 조상",
+      "자료 구조",
+      "그래프 이론",
+      "스택",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2234",
+    "number": "2234",
+    "title": "성곽",
+    "level": 13,
+    "tags": [
+      "너비 우선 탐색",
+      "비트마스킹",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2239",
+    "number": "2239",
+    "title": "스도쿠",
+    "level": 12,
+    "tags": [
+      "구현",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2250",
+    "number": "2250",
+    "title": "트리의 높이와 너비",
+    "level": 14,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2252",
+    "number": "2252",
+    "title": "줄 세우기",
+    "level": 13,
+    "tags": [
+      "위상 정렬",
+      "방향 비순환 그래프",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2253",
+    "number": "2253",
+    "title": "점프",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2263",
+    "number": "2263",
+    "title": "트리의 순회",
+    "level": 15,
+    "tags": [
+      "재귀",
+      "트리",
+      "분할 정복"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2285",
+    "number": "2285",
+    "title": "우체국",
+    "level": 12,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2293",
+    "number": "2293",
+    "title": "동전 1",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2294",
+    "number": "2294",
+    "title": "동전 2",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2302",
+    "number": "2302",
+    "title": "극장 좌석",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2304",
+    "number": "2304",
+    "title": "창고 다각형",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘",
+      "스택",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2307",
+    "number": "2307",
+    "title": "도로검문",
+    "level": 15,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2343",
+    "number": "2343",
+    "title": "기타 레슨",
+    "level": 10,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2346",
+    "number": "2346",
+    "title": "풍선 터뜨리기",
+    "level": 8,
+    "tags": [
+      "자료 구조",
+      "덱"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2374",
+    "number": "2374",
+    "title": "같은 수로 만들기",
+    "level": 12,
+    "tags": [
+      "자료 구조",
+      "그리디 알고리즘",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2406",
+    "number": "2406",
+    "title": "안정적인 네트워크",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2407",
+    "number": "2407",
+    "title": "조합",
+    "level": 8,
+    "tags": [
+      "수학",
+      "조합론",
+      "임의 정밀도 / 큰 수 연산"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2411",
+    "number": "2411",
+    "title": "아이템 먹기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2412",
+    "number": "2412",
+    "title": "암벽 등반",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "해시를 사용한 집합과 맵",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2417",
+    "number": "2417",
+    "title": "정수 제곱근",
+    "level": 7,
+    "tags": [
+      "수학",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2422",
+    "number": "2422",
+    "title": "한윤정이 이탈리아에 가서 아이스크림을 사먹는데",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2428",
+    "number": "2428",
+    "title": "표절",
+    "level": 8,
+    "tags": [
+      "이분 탐색",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2447",
+    "number": "2447",
+    "title": "별 찍기 - 10",
+    "level": 11,
+    "tags": [
+      "분할 정복",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2448",
+    "number": "2448",
+    "title": "별 찍기 - 11",
+    "level": 12,
+    "tags": [
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2457",
+    "number": "2457",
+    "title": "공주님의 정원",
+    "level": 13,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2458",
+    "number": "2458",
+    "title": "키 순서",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "플로이드–워셜"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2467",
+    "number": "2467",
+    "title": "용액",
+    "level": 11,
+    "tags": [
+      "두 포인터",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2469",
+    "number": "2469",
+    "title": "사다리 타기",
+    "level": 11,
+    "tags": [
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2470",
+    "number": "2470",
+    "title": "두 용액",
+    "level": 11,
+    "tags": [
+      "이분 탐색",
+      "두 포인터",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2473",
+    "number": "2473",
+    "title": "세 용액",
+    "level": 13,
+    "tags": [
+      "정렬",
+      "이분 탐색",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2491",
+    "number": "2491",
+    "title": "수열",
+    "level": 7,
+    "tags": [
+      "구현",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2493",
+    "number": "2493",
+    "title": "탑",
+    "level": 11,
+    "tags": [
+      "스택",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2503",
+    "number": "2503",
+    "title": "숫자 야구",
+    "level": 8,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2504",
+    "number": "2504",
+    "title": "괄호의 값",
+    "level": 11,
+    "tags": [
+      "구현",
+      "스택",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2512",
+    "number": "2512",
+    "title": "예산",
+    "level": 9,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2529",
+    "number": "2529",
+    "title": "부등호",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2533",
+    "number": "2533",
+    "title": "사회망 서비스(SNS)",
+    "level": 13,
+    "tags": [
+      "트리에서의 다이나믹 프로그래밍",
+      "다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2565",
+    "number": "2565",
+    "title": "전깃줄",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2571",
+    "number": "2571",
+    "title": "색종이 - 3",
+    "level": 13,
+    "tags": [
+      "누적 합",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2573",
+    "number": "2573",
+    "title": "빙산",
+    "level": 12,
+    "tags": [
+      "구현",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2578",
+    "number": "2578",
+    "title": "빙고",
+    "level": 7,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2579",
+    "number": "2579",
+    "title": "계단 오르기",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2580",
+    "number": "2580",
+    "title": "스도쿠",
+    "level": 12,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2583",
+    "number": "2583",
+    "title": "영역 구하기",
+    "level": 10,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2589",
+    "number": "2589",
+    "title": "보물섬",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "브루트포스 알고리즘",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2602",
+    "number": "2602",
+    "title": "돌다리 건너기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2606",
+    "number": "2606",
+    "title": "바이러스",
+    "level": 8,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2613",
+    "number": "2613",
+    "title": "숫자구슬",
+    "level": 14,
+    "tags": [
+      "그리디 알고리즘",
+      "다이나믹 프로그래밍",
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2615",
+    "number": "2615",
+    "title": "오목",
+    "level": 10,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2616",
+    "number": "2616",
+    "title": "소형기관차",
+    "level": 13,
+    "tags": [
+      "누적 합",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2623",
+    "number": "2623",
+    "title": "음악프로그램",
+    "level": 13,
+    "tags": [
+      "위상 정렬",
+      "방향 비순환 그래프",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2624",
+    "number": "2624",
+    "title": "동전 바꿔주기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2629",
+    "number": "2629",
+    "title": "양팔저울",
+    "level": 13,
+    "tags": [
+      "배낭 문제",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2630",
+    "number": "2630",
+    "title": "색종이 만들기",
+    "level": 9,
+    "tags": [
+      "분할 정복",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2631",
+    "number": "2631",
+    "title": "줄세우기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2635",
+    "number": "2635",
+    "title": "수 이어가기",
+    "level": 6,
+    "tags": [
+      "브루트포스 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2636",
+    "number": "2636",
+    "title": "치즈",
+    "level": 12,
+    "tags": [
+      "구현",
+      "시뮬레이션",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2637",
+    "number": "2637",
+    "title": "장난감 조립",
+    "level": 14,
+    "tags": [
+      "방향 비순환 그래프",
+      "위상 정렬",
+      "다이나믹 프로그래밍",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2638",
+    "number": "2638",
+    "title": "치즈",
+    "level": 13,
+    "tags": [
+      "구현",
+      "시뮬레이션",
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2644",
+    "number": "2644",
+    "title": "촌수계산",
+    "level": 9,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2660",
+    "number": "2660",
+    "title": "회장뽑기",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "플로이드–워셜",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2661",
+    "number": "2661",
+    "title": "좋은수열",
+    "level": 12,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2667",
+    "number": "2667",
+    "title": "단지번호붙이기",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2668",
+    "number": "2668",
+    "title": "숫자고르기",
+    "level": 11,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2670",
+    "number": "2670",
+    "title": "연속부분최대곱",
+    "level": 7,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2688",
+    "number": "2688",
+    "title": "줄어들지 않아",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2696",
+    "number": "2696",
+    "title": "중앙값 구하기",
+    "level": 14,
+    "tags": [
+      "우선순위 큐",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2758",
+    "number": "2758",
+    "title": "로또",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2776",
+    "number": "2776",
+    "title": "암기왕",
+    "level": 7,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "자료 구조",
+      "이분 탐색",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2792",
+    "number": "2792",
+    "title": "보석 상자",
+    "level": 10,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2800",
+    "number": "2800",
+    "title": "괄호 제거",
+    "level": 12,
+    "tags": [
+      "비트마스킹",
+      "자료 구조",
+      "스택",
+      "문자열",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2805",
+    "number": "2805",
+    "title": "나무 자르기",
+    "level": 9,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2812",
+    "number": "2812",
+    "title": "크게 만들기",
+    "level": 13,
+    "tags": [
+      "자료 구조",
+      "스택",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2839",
+    "number": "2839",
+    "title": "설탕 배달",
+    "level": 7,
+    "tags": [
+      "수학",
+      "다이나믹 프로그래밍",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2847",
+    "number": "2847",
+    "title": "게임을 만든 동준이",
+    "level": 7,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2852",
+    "number": "2852",
+    "title": "NBA 농구",
+    "level": 8,
+    "tags": [
+      "문자열",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2866",
+    "number": "2866",
+    "title": "문자열 잘라내기",
+    "level": 11,
+    "tags": [
+      "이분 탐색",
+      "해시를 사용한 집합과 맵",
+      "정렬",
+      "문자열",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2876",
+    "number": "2876",
+    "title": "그래픽스 퀴즈",
+    "level": 8,
+    "tags": [
+      "구현",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2877",
+    "number": "2877",
+    "title": "4와 7",
+    "level": 11,
+    "tags": [
+      "수학",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2922",
+    "number": "2922",
+    "title": "즐거운 단어",
+    "level": 12,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2933",
+    "number": "2933",
+    "title": "미네랄",
+    "level": 15,
+    "tags": [
+      "그래프 탐색",
+      "구현",
+      "시뮬레이션",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2941",
+    "number": "2941",
+    "title": "크로아티아 알파벳",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2961",
+    "number": "2961",
+    "title": "도영이가 만든 맛있는 음식",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹",
+      "비트마스킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/2982",
+    "number": "2982",
+    "title": "국왕의 방문",
+    "level": 14,
+    "tags": [
+      "최단 경로",
+      "그래프 이론",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3005",
+    "number": "3005",
+    "title": "크로스워드 퍼즐 쳐다보기",
+    "level": 9,
+    "tags": [
+      "문자열",
+      "파싱",
+      "구현",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3020",
+    "number": "3020",
+    "title": "개똥벌레",
+    "level": 11,
+    "tags": [
+      "이분 탐색",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3055",
+    "number": "3055",
+    "title": "탈출",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3067",
+    "number": "3067",
+    "title": "Coins",
+    "level": 11,
+    "tags": [
+      "배낭 문제",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3079",
+    "number": "3079",
+    "title": "입국심사",
+    "level": 11,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3085",
+    "number": "3085",
+    "title": "사탕 게임",
+    "level": 9,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3107",
+    "number": "3107",
+    "title": "IPv6",
+    "level": 10,
+    "tags": [
+      "문자열",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3151",
+    "number": "3151",
+    "title": "합이 0",
+    "level": 12,
+    "tags": [
+      "브루트포스 알고리즘",
+      "정렬",
+      "이분 탐색",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3165",
+    "number": "3165",
+    "title": "5",
+    "level": 14,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3184",
+    "number": "3184",
+    "title": "양",
+    "level": 10,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3187",
+    "number": "3187",
+    "title": "양치기 꿍",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3190",
+    "number": "3190",
+    "title": "뱀",
+    "level": 12,
+    "tags": [
+      "덱",
+      "큐",
+      "구현",
+      "시뮬레이션",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3273",
+    "number": "3273",
+    "title": "두 수의 합",
+    "level": 8,
+    "tags": [
+      "정렬",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3584",
+    "number": "3584",
+    "title": "가장 가까운 공통 조상",
+    "level": 12,
+    "tags": [
+      "최소 공통 조상",
+      "그래프 이론",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3613",
+    "number": "3613",
+    "title": "Java vs C++",
+    "level": 8,
+    "tags": [
+      "문자열",
+      "많은 조건 분기",
+      "파싱",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3665",
+    "number": "3665",
+    "title": "최종 순위",
+    "level": 15,
+    "tags": [
+      "방향 비순환 그래프",
+      "그래프 이론",
+      "위상 정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3673",
+    "number": "3673",
+    "title": "나눌 수 있는 부분 수열",
+    "level": 13,
+    "tags": [
+      "수학",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3687",
+    "number": "3687",
+    "title": "성냥개비",
+    "level": 14,
+    "tags": [
+      "그리디 알고리즘",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3980",
+    "number": "3980",
+    "title": "선발 명단",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/3986",
+    "number": "3986",
+    "title": "좋은 단어",
+    "level": 7,
+    "tags": [
+      "스택",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4095",
+    "number": "4095",
+    "title": "최대 정사각형",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4096",
+    "number": "4096",
+    "title": "팰린드로미터",
+    "level": 7,
+    "tags": [
+      "문자열",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4097",
+    "number": "4097",
+    "title": "수익",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4179",
+    "number": "4179",
+    "title": "불!",
+    "level": 13,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4195",
+    "number": "4195",
+    "title": "친구 네트워크",
+    "level": 14,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "분리 집합",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4256",
+    "number": "4256",
+    "title": "트리",
+    "level": 14,
+    "tags": [
+      "분할 정복",
+      "재귀",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4358",
+    "number": "4358",
+    "title": "생태학",
+    "level": 9,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "문자열",
+      "자료 구조",
+      "트리를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4386",
+    "number": "4386",
+    "title": "별자리 만들기",
+    "level": 13,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4396",
+    "number": "4396",
+    "title": "지뢰 찾기",
+    "level": 7,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4446",
+    "number": "4446",
+    "title": "ROT13",
+    "level": 6,
+    "tags": [
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4485",
+    "number": "4485",
+    "title": "녹색 옷 입은 애가 젤다지?",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "데이크스트라",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4659",
+    "number": "4659",
+    "title": "비밀번호 발음하기",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4779",
+    "number": "4779",
+    "title": "칸토어 집합",
+    "level": 8,
+    "tags": [
+      "분할 정복",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4803",
+    "number": "4803",
+    "title": "트리",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "트리",
+      "분리 집합",
+      "자료 구조",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4811",
+    "number": "4811",
+    "title": "알약",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4836",
+    "number": "4836",
+    "title": "춤",
+    "level": 7,
+    "tags": [
+      "문자열",
+      "파싱",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4933",
+    "number": "4933",
+    "title": "뉴턴의 사과",
+    "level": 14,
+    "tags": [
+      "스택",
+      "자료 구조",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4949",
+    "number": "4949",
+    "title": "균형잡힌 세상",
+    "level": 7,
+    "tags": [
+      "스택",
+      "자료 구조",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/4963",
+    "number": "4963",
+    "title": "섬의 개수",
+    "level": 9,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "깊이 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5014",
+    "number": "5014",
+    "title": "스타트링크",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5052",
+    "number": "5052",
+    "title": "전화번호 목록",
+    "level": 12,
+    "tags": [
+      "문자열",
+      "자료 구조",
+      "트라이",
+      "트리",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5212",
+    "number": "5212",
+    "title": "지구 온난화",
+    "level": 9,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5397",
+    "number": "5397",
+    "title": "키로거",
+    "level": 9,
+    "tags": [
+      "자료 구조",
+      "스택",
+      "연결 리스트"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5427",
+    "number": "5427",
+    "title": "불",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5430",
+    "number": "5430",
+    "title": "AC",
+    "level": 11,
+    "tags": [
+      "구현",
+      "자료 구조",
+      "덱",
+      "파싱",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5534",
+    "number": "5534",
+    "title": "간판",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5547",
+    "number": "5547",
+    "title": "일루미네이션",
+    "level": 12,
+    "tags": [
+      "너비 우선 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5549",
+    "number": "5549",
+    "title": "행성 탐사",
+    "level": 11,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5557",
+    "number": "5557",
+    "title": "1학년",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5567",
+    "number": "5567",
+    "title": "결혼식",
+    "level": 9,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5568",
+    "number": "5568",
+    "title": "카드 놓기",
+    "level": 7,
+    "tags": [
+      "백트래킹",
+      "해시를 사용한 집합과 맵",
+      "자료 구조",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5569",
+    "number": "5569",
+    "title": "출근 경로",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5582",
+    "number": "5582",
+    "title": "공통 부분 문자열",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5624",
+    "number": "5624",
+    "title": "좋은 수",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5639",
+    "number": "5639",
+    "title": "이진 검색 트리",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "재귀",
+      "트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5671",
+    "number": "5671",
+    "title": "호텔 방 번호",
+    "level": 6,
+    "tags": [
+      "브루트포스 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5766",
+    "number": "5766",
+    "title": "할아버지는 유명해!",
+    "level": 7,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5875",
+    "number": "5875",
+    "title": "오타",
+    "level": 14,
+    "tags": [
+      "누적 합",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5883",
+    "number": "5883",
+    "title": "아이폰 9S",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5904",
+    "number": "5904",
+    "title": "Moo 게임",
+    "level": 11,
+    "tags": [
+      "재귀",
+      "분할 정복"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/5972",
+    "number": "5972",
+    "title": "택배 배송",
+    "level": 11,
+    "tags": [
+      "데이크스트라",
+      "그래프 이론",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6068",
+    "number": "6068",
+    "title": "시간 관리하기",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6087",
+    "number": "6087",
+    "title": "레이저 통신",
+    "level": 13,
+    "tags": [
+      "너비 우선 탐색",
+      "데이크스트라",
+      "최단 경로",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6118",
+    "number": "6118",
+    "title": "숨바꼭질",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6137",
+    "number": "6137",
+    "title": "문자열 생성",
+    "level": 12,
+    "tags": [
+      "문자열",
+      "그리디 알고리즘",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6159",
+    "number": "6159",
+    "title": "Costume Party",
+    "level": 6,
+    "tags": [
+      "두 포인터",
+      "브루트포스 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6209",
+    "number": "6209",
+    "title": "제자리 멀리뛰기",
+    "level": 14,
+    "tags": [
+      "그리디 알고리즘",
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6236",
+    "number": "6236",
+    "title": "용돈 관리",
+    "level": 10,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6443",
+    "number": "6443",
+    "title": "애너그램",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6497",
+    "number": "6497",
+    "title": "전력난",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6550",
+    "number": "6550",
+    "title": "부분 문자열",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6603",
+    "number": "6603",
+    "title": "로또",
+    "level": 9,
+    "tags": [
+      "수학",
+      "조합론",
+      "재귀",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/6987",
+    "number": "6987",
+    "title": "월드컵",
+    "level": 12,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7490",
+    "number": "7490",
+    "title": "0 만들기",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘",
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7511",
+    "number": "7511",
+    "title": "소셜 네트워킹 어플리케이션",
+    "level": 11,
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7562",
+    "number": "7562",
+    "title": "나이트의 이동",
+    "level": 10,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7568",
+    "number": "7568",
+    "title": "덩치",
+    "level": 6,
+    "tags": [
+      "브루트포스 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7569",
+    "number": "7569",
+    "title": "토마토",
+    "level": 11,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7576",
+    "number": "7576",
+    "title": "토마토",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7579",
+    "number": "7579",
+    "title": "앱",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7662",
+    "number": "7662",
+    "title": "이중 우선순위 큐",
+    "level": 12,
+    "tags": [
+      "우선순위 큐",
+      "트리를 사용한 집합과 맵",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7682",
+    "number": "7682",
+    "title": "틱택토",
+    "level": 11,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/7795",
+    "number": "7795",
+    "title": "먹을 것인가 먹힐 것인가",
+    "level": 8,
+    "tags": [
+      "정렬",
+      "두 포인터",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/8972",
+    "number": "8972",
+    "title": "미친 아두이노",
+    "level": 13,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/8980",
+    "number": "8980",
+    "title": "택배",
+    "level": 15,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/8983",
+    "number": "8983",
+    "title": "사냥꾼",
+    "level": 12,
+    "tags": [
+      "정렬",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9012",
+    "number": "9012",
+    "title": "괄호",
+    "level": 7,
+    "tags": [
+      "자료 구조",
+      "스택",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9019",
+    "number": "9019",
+    "title": "DSLR",
+    "level": 12,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9024",
+    "number": "9024",
+    "title": "두 수의 합",
+    "level": 11,
+    "tags": [
+      "두 포인터",
+      "이분 탐색",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9079",
+    "number": "9079",
+    "title": "동전 게임",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘",
+      "비트마스킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9081",
+    "number": "9081",
+    "title": "단어 맞추기",
+    "level": 10,
+    "tags": [
+      "수학",
+      "문자열",
+      "조합론",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9084",
+    "number": "9084",
+    "title": "동전",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9095",
+    "number": "9095",
+    "title": "1, 2, 3 더하기",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9205",
+    "number": "9205",
+    "title": "맥주 마시면서 걸어가기",
+    "level": 11,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9242",
+    "number": "9242",
+    "title": "폭탄 해체",
+    "level": 7,
+    "tags": [
+      "파싱",
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9251",
+    "number": "9251",
+    "title": "LCS",
+    "level": 11,
+    "tags": [
+      "문자열",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9370",
+    "number": "9370",
+    "title": "미확인 도착지",
+    "level": 14,
+    "tags": [
+      "최단 경로",
+      "그래프 이론",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9372",
+    "number": "9372",
+    "title": "상근이의 여행",
+    "level": 7,
+    "tags": [
+      "트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9375",
+    "number": "9375",
+    "title": "패션왕 신해빈",
+    "level": 8,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "자료 구조",
+      "조합론",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9461",
+    "number": "9461",
+    "title": "파도반 수열",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9465",
+    "number": "9465",
+    "title": "스티커",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9466",
+    "number": "9466",
+    "title": "텀 프로젝트",
+    "level": 13,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9470",
+    "number": "9470",
+    "title": "Strahler 순서",
+    "level": 13,
+    "tags": [
+      "방향 비순환 그래프",
+      "위상 정렬",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9489",
+    "number": "9489",
+    "title": "사촌",
+    "level": 12,
+    "tags": [
+      "트리",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9536",
+    "number": "9536",
+    "title": "여우는 어떻게 울지?",
+    "level": 8,
+    "tags": [
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "파싱",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9663",
+    "number": "9663",
+    "title": "N-Queen",
+    "level": 12,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9934",
+    "number": "9934",
+    "title": "완전 이진 트리",
+    "level": 10,
+    "tags": [
+      "트리",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/9944",
+    "number": "9944",
+    "title": "NxM 보드 완주하기",
+    "level": 13,
+    "tags": [
+      "백트래킹",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10026",
+    "number": "10026",
+    "title": "적록색약",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10159",
+    "number": "10159",
+    "title": "저울",
+    "level": 12,
+    "tags": [
+      "플로이드–워셜",
+      "최단 경로",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10164",
+    "number": "10164",
+    "title": "격자상의 경로",
+    "level": 9,
+    "tags": [
+      "수학",
+      "조합론",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10211",
+    "number": "10211",
+    "title": "Maximum Subarray",
+    "level": 7,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "누적 합",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10282",
+    "number": "10282",
+    "title": "해킹",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "그래프 이론",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10421",
+    "number": "10421",
+    "title": "수식 완성하기",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10423",
+    "number": "10423",
+    "title": "전기가 부족해",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10427",
+    "number": "10427",
+    "title": "빚",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10472",
+    "number": "10472",
+    "title": "십자뒤집기",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "비트마스킹",
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10546",
+    "number": "10546",
+    "title": "배부른 마라토너",
+    "level": 7,
+    "tags": [
+      "자료 구조",
+      "해시를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10597",
+    "number": "10597",
+    "title": "순열장난",
+    "level": 11,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10653",
+    "number": "10653",
+    "title": "마라톤 2",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10703",
+    "number": "10703",
+    "title": "유성",
+    "level": 10,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10711",
+    "number": "10711",
+    "title": "모래성",
+    "level": 14,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10713",
+    "number": "10713",
+    "title": "기차 여행",
+    "level": 12,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10775",
+    "number": "10775",
+    "title": "공항",
+    "level": 14,
+    "tags": [
+      "분리 집합",
+      "그리디 알고리즘",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10799",
+    "number": "10799",
+    "title": "쇠막대기",
+    "level": 9,
+    "tags": [
+      "자료 구조",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10815",
+    "number": "10815",
+    "title": "숫자 카드",
+    "level": 6,
+    "tags": [
+      "자료 구조",
+      "이분 탐색",
+      "해시를 사용한 집합과 맵",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10816",
+    "number": "10816",
+    "title": "숫자 카드 2",
+    "level": 7,
+    "tags": [
+      "자료 구조",
+      "이분 탐색",
+      "해시를 사용한 집합과 맵",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10819",
+    "number": "10819",
+    "title": "차이를 최대로",
+    "level": 9,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10828",
+    "number": "10828",
+    "title": "스택",
+    "level": 7,
+    "tags": [
+      "구현",
+      "스택",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10844",
+    "number": "10844",
+    "title": "쉬운 계단 수",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10845",
+    "number": "10845",
+    "title": "큐",
+    "level": 7,
+    "tags": [
+      "큐",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10866",
+    "number": "10866",
+    "title": "덱",
+    "level": 7,
+    "tags": [
+      "구현",
+      "덱",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10942",
+    "number": "10942",
+    "title": "팰린드롬?",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10974",
+    "number": "10974",
+    "title": "모든 순열",
+    "level": 8,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10986",
+    "number": "10986",
+    "title": "나머지 합",
+    "level": 13,
+    "tags": [
+      "수학",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/10994",
+    "number": "10994",
+    "title": "별 찍기 - 19",
+    "level": 7,
+    "tags": [
+      "재귀",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11000",
+    "number": "11000",
+    "title": "강의실 배정",
+    "level": 11,
+    "tags": [
+      "정렬",
+      "우선순위 큐",
+      "자료 구조",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11047",
+    "number": "11047",
+    "title": "동전 0",
+    "level": 7,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11048",
+    "number": "11048",
+    "title": "이동하기",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11049",
+    "number": "11049",
+    "title": "행렬 곱셈 순서",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11051",
+    "number": "11051",
+    "title": "이항 계수 2",
+    "level": 9,
+    "tags": [
+      "수학",
+      "조합론",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11052",
+    "number": "11052",
+    "title": "카드 구매하기",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11053",
+    "number": "11053",
+    "title": "가장 긴 증가하는 부분 수열",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11054",
+    "number": "11054",
+    "title": "가장 긴 바이토닉 부분 수열",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11055",
+    "number": "11055",
+    "title": "가장 큰 증가하는 부분 수열",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11057",
+    "number": "11057",
+    "title": "오르막 수",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11060",
+    "number": "11060",
+    "title": "점프 점프",
+    "level": 9,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11066",
+    "number": "11066",
+    "title": "파일 합치기",
+    "level": 13,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11085",
+    "number": "11085",
+    "title": "군사 이동",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "분리 집합",
+      "그래프 탐색",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11123",
+    "number": "11123",
+    "title": "양 한마리... 양 두마리...",
+    "level": 9,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11256",
+    "number": "11256",
+    "title": "사탕",
+    "level": 6,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11265",
+    "number": "11265",
+    "title": "끝나지 않는 파티",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "플로이드–워셜"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11279",
+    "number": "11279",
+    "title": "최대 힙",
+    "level": 9,
+    "tags": [
+      "자료 구조",
+      "우선순위 큐"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11286",
+    "number": "11286",
+    "title": "절댓값 힙",
+    "level": 10,
+    "tags": [
+      "우선순위 큐",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11399",
+    "number": "11399",
+    "title": "ATM",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11403",
+    "number": "11403",
+    "title": "경로 찾기",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "플로이드–워셜",
+      "최단 경로",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11404",
+    "number": "11404",
+    "title": "플로이드",
+    "level": 12,
+    "tags": [
+      "플로이드–워셜",
+      "최단 경로",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11437",
+    "number": "11437",
+    "title": "LCA",
+    "level": 13,
+    "tags": [
+      "트리",
+      "최소 공통 조상",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11441",
+    "number": "11441",
+    "title": "합 구하기",
+    "level": 8,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11478",
+    "number": "11478",
+    "title": "서로 다른 부분 문자열의 개수",
+    "level": 8,
+    "tags": [
+      "문자열",
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "트리를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11508",
+    "number": "11508",
+    "title": "2+1 세일",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11509",
+    "number": "11509",
+    "title": "풍선 맞추기",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11559",
+    "number": "11559",
+    "title": "Puyo Puyo",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11561",
+    "number": "11561",
+    "title": "징검다리",
+    "level": 8,
+    "tags": [
+      "이분 탐색",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11562",
+    "number": "11562",
+    "title": "백양로 브레이크",
+    "level": 13,
+    "tags": [
+      "플로이드–워셜",
+      "그래프 이론",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11656",
+    "number": "11656",
+    "title": "접미사 배열",
+    "level": 7,
+    "tags": [
+      "정렬",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11659",
+    "number": "11659",
+    "title": "구간 합 구하기 4",
+    "level": 8,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11660",
+    "number": "11660",
+    "title": "구간 합 구하기 5",
+    "level": 10,
+    "tags": [
+      "누적 합",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11663",
+    "number": "11663",
+    "title": "선분 위의 점",
+    "level": 8,
+    "tags": [
+      "이분 탐색",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11722",
+    "number": "11722",
+    "title": "가장 긴 감소하는 부분 수열",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11724",
+    "number": "11724",
+    "title": "연결 요소의 개수",
+    "level": 9,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11725",
+    "number": "11725",
+    "title": "트리의 부모 찾기",
+    "level": 9,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11726",
+    "number": "11726",
+    "title": "2×n 타일링",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11727",
+    "number": "11727",
+    "title": "2×n 타일링 2",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11728",
+    "number": "11728",
+    "title": "배열 합치기",
+    "level": 6,
+    "tags": [
+      "두 포인터",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11779",
+    "number": "11779",
+    "title": "최소비용 구하기 2",
+    "level": 13,
+    "tags": [
+      "최단 경로",
+      "데이크스트라",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11780",
+    "number": "11780",
+    "title": "플로이드 2",
+    "level": 14,
+    "tags": [
+      "최단 경로",
+      "플로이드–워셜",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11909",
+    "number": "11909",
+    "title": "배열 탈출",
+    "level": 11,
+    "tags": [
+      "최단 경로",
+      "다이나믹 프로그래밍",
+      "데이크스트라",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/11985",
+    "number": "11985",
+    "title": "오렌지 출하",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12026",
+    "number": "12026",
+    "title": "BOJ 거리",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12101",
+    "number": "12101",
+    "title": "1, 2, 3 더하기 2",
+    "level": 10,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12757",
+    "number": "12757",
+    "title": "전설의 JBNU",
+    "level": 13,
+    "tags": [
+      "이분 탐색",
+      "자료 구조",
+      "해시를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12761",
+    "number": "12761",
+    "title": "돌다리",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12764",
+    "number": "12764",
+    "title": "싸지방에 간 준하",
+    "level": 13,
+    "tags": [
+      "시뮬레이션",
+      "자료 구조",
+      "구현",
+      "우선순위 큐"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12782",
+    "number": "12782",
+    "title": "비트 우정지수",
+    "level": 7,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12851",
+    "number": "12851",
+    "title": "숨바꼭질 2",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12865",
+    "number": "12865",
+    "title": "평범한 배낭",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12871",
+    "number": "12871",
+    "title": "무한 문자열",
+    "level": 6,
+    "tags": [
+      "문자열",
+      "수학",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12896",
+    "number": "12896",
+    "title": "스크루지 민호",
+    "level": 14,
+    "tags": [
+      "트리",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12908",
+    "number": "12908",
+    "title": "텔레포트 3",
+    "level": 11,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "플로이드–워셜",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12912",
+    "number": "12912",
+    "title": "트리 수정",
+    "level": 15,
+    "tags": [
+      "브루트포스 알고리즘",
+      "트리",
+      "그래프 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12919",
+    "number": "12919",
+    "title": "A와 B 2",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "문자열",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12931",
+    "number": "12931",
+    "title": "두 배 더하기",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12933",
+    "number": "12933",
+    "title": "오리",
+    "level": 9,
+    "tags": [
+      "구현",
+      "문자열",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/12978",
+    "number": "12978",
+    "title": "스크루지 민호 2",
+    "level": 13,
+    "tags": [
+      "트리에서의 다이나믹 프로그래밍",
+      "다이나믹 프로그래밍",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13019",
+    "number": "13019",
+    "title": "A를 B로",
+    "level": 12,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13022",
+    "number": "13022",
+    "title": "늑대와 올바른 단어",
+    "level": 9,
+    "tags": [
+      "문자열",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13023",
+    "number": "13023",
+    "title": "ABCDE",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "백트래킹",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13164",
+    "number": "13164",
+    "title": "행복 유치원",
+    "level": 11,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13302",
+    "number": "13302",
+    "title": "리조트",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13305",
+    "number": "13305",
+    "title": "주유소",
+    "level": 8,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13397",
+    "number": "13397",
+    "title": "구간 나누기 2",
+    "level": 12,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13398",
+    "number": "13398",
+    "title": "연속합 2",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13413",
+    "number": "13413",
+    "title": "오셀로 재배치",
+    "level": 7,
+    "tags": [
+      "그리디 알고리즘",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13418",
+    "number": "13418",
+    "title": "학교 탐방하기",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13424",
+    "number": "13424",
+    "title": "비밀 모임",
+    "level": 12,
+    "tags": [
+      "플로이드–워셜",
+      "최단 경로",
+      "데이크스트라",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13459",
+    "number": "13459",
+    "title": "구슬 탈출",
+    "level": 15,
+    "tags": [
+      "너비 우선 탐색",
+      "구현",
+      "시뮬레이션",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13460",
+    "number": "13460",
+    "title": "구슬 탈출 2",
+    "level": 15,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13565",
+    "number": "13565",
+    "title": "침투",
+    "level": 9,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13699",
+    "number": "13699",
+    "title": "점화식",
+    "level": 7,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13702",
+    "number": "13702",
+    "title": "이상한 술집",
+    "level": 9,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13707",
+    "number": "13707",
+    "title": "합분해 2",
+    "level": 12,
+    "tags": [
+      "수학",
+      "다이나믹 프로그래밍",
+      "조합론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13902",
+    "number": "13902",
+    "title": "개업 2",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13905",
+    "number": "13905",
+    "title": "세부",
+    "level": 12,
+    "tags": [
+      "분리 집합",
+      "그래프 탐색",
+      "최소 스패닝 트리",
+      "그래프 이론",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13908",
+    "number": "13908",
+    "title": "비밀번호",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13910",
+    "number": "13910",
+    "title": "개업",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13911",
+    "number": "13911",
+    "title": "집 구하기",
+    "level": 14,
+    "tags": [
+      "최단 경로",
+      "데이크스트라",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13913",
+    "number": "13913",
+    "title": "숨바꼭질 4",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/13975",
+    "number": "13975",
+    "title": "파일 합치기 3",
+    "level": 12,
+    "tags": [
+      "자료 구조",
+      "우선순위 큐",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14225",
+    "number": "14225",
+    "title": "부분수열의 합",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14226",
+    "number": "14226",
+    "title": "이모티콘",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14247",
+    "number": "14247",
+    "title": "나무 자르기",
+    "level": 9,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14248",
+    "number": "14248",
+    "title": "점프 점프",
+    "level": 9,
+    "tags": [
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14267",
+    "number": "14267",
+    "title": "회사 문화 1",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "트리",
+      "트리에서의 다이나믹 프로그래밍",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14284",
+    "number": "14284",
+    "title": "간선 이어가기 2",
+    "level": 11,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14391",
+    "number": "14391",
+    "title": "종이 조각",
+    "level": 13,
+    "tags": [
+      "브루트포스 알고리즘",
+      "비트마스킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14405",
+    "number": "14405",
+    "title": "피카츄",
+    "level": 6,
+    "tags": [
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14425",
+    "number": "14425",
+    "title": "문자열 집합",
+    "level": 7,
+    "tags": [
+      "트리를 사용한 집합과 맵",
+      "문자열",
+      "자료 구조",
+      "해시를 사용한 집합과 맵"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14430",
+    "number": "14430",
+    "title": "자원 캐기",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14442",
+    "number": "14442",
+    "title": "벽 부수고 이동하기 2",
+    "level": 13,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14496",
+    "number": "14496",
+    "title": "그대, 그머가 되어",
+    "level": 9,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14499",
+    "number": "14499",
+    "title": "주사위 굴리기",
+    "level": 12,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14500",
+    "number": "14500",
+    "title": "테트로미노",
+    "level": 12,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14501",
+    "number": "14501",
+    "title": "퇴사",
+    "level": 8,
+    "tags": [
+      "브루트포스 알고리즘",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14502",
+    "number": "14502",
+    "title": "연구소",
+    "level": 12,
+    "tags": [
+      "너비 우선 탐색",
+      "구현",
+      "그래프 탐색",
+      "그래프 이론",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14503",
+    "number": "14503",
+    "title": "로봇 청소기",
+    "level": 11,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14567",
+    "number": "14567",
+    "title": "선수과목 (Prerequisite)",
+    "level": 11,
+    "tags": [
+      "방향 비순환 그래프",
+      "그래프 이론",
+      "다이나믹 프로그래밍",
+      "위상 정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14570",
+    "number": "14570",
+    "title": "나무 위의 구슬",
+    "level": 15,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14575",
+    "number": "14575",
+    "title": "뒤풀이",
+    "level": 10,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14594",
+    "number": "14594",
+    "title": "동방 프로젝트 (Small)",
+    "level": 7,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14595",
+    "number": "14595",
+    "title": "동방 프로젝트 (Large)",
+    "level": 13,
+    "tags": [
+      "스위핑",
+      "자료 구조",
+      "분리 집합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14600",
+    "number": "14600",
+    "title": "샤워실 바닥 깔기 (Small)",
+    "level": 10,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14620",
+    "number": "14620",
+    "title": "꽃길",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14621",
+    "number": "14621",
+    "title": "나만 안되는 연애",
+    "level": 13,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14627",
+    "number": "14627",
+    "title": "파닭파닭",
+    "level": 9,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14657",
+    "number": "14657",
+    "title": "준오는 최종인재야!!",
+    "level": 14,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14676",
+    "number": "14676",
+    "title": "영우는 사기꾼?",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "구현",
+      "방향 비순환 그래프"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14699",
+    "number": "14699",
+    "title": "관악산 등산",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14712",
+    "number": "14712",
+    "title": "넴모넴모 (Easy)",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14716",
+    "number": "14716",
+    "title": "현수막",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14719",
+    "number": "14719",
+    "title": "빗물",
+    "level": 11,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14722",
+    "number": "14722",
+    "title": "우유 도시",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14725",
+    "number": "14725",
+    "title": "개미굴",
+    "level": 13,
+    "tags": [
+      "자료 구조",
+      "트라이",
+      "문자열",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14728",
+    "number": "14728",
+    "title": "벼락치기",
+    "level": 11,
+    "tags": [
+      "배낭 문제",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14852",
+    "number": "14852",
+    "title": "타일 채우기 3",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14863",
+    "number": "14863",
+    "title": "서울에서 경산까지",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14888",
+    "number": "14888",
+    "title": "연산자 끼워넣기",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14889",
+    "number": "14889",
+    "title": "스타트와 링크",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14891",
+    "number": "14891",
+    "title": "톱니바퀴",
+    "level": 11,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14912",
+    "number": "14912",
+    "title": "숫자 빈도수",
+    "level": 6,
+    "tags": [
+      "수학",
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14916",
+    "number": "14916",
+    "title": "거스름돈",
+    "level": 6,
+    "tags": [
+      "수학",
+      "다이나믹 프로그래밍",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14921",
+    "number": "14921",
+    "title": "용액 합성하기",
+    "level": 11,
+    "tags": [
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14923",
+    "number": "14923",
+    "title": "미로 탈출",
+    "level": 12,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14925",
+    "number": "14925",
+    "title": "목장 건설하기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14929",
+    "number": "14929",
+    "title": "귀찮아 (SIB)",
+    "level": 6,
+    "tags": [
+      "수학",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14938",
+    "number": "14938",
+    "title": "서강그라운드",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "데이크스트라",
+      "최단 경로",
+      "플로이드–워셜"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14940",
+    "number": "14940",
+    "title": "쉬운 최단거리",
+    "level": 10,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14945",
+    "number": "14945",
+    "title": "불장난",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/14950",
+    "number": "14950",
+    "title": "정복자",
+    "level": 12,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15270",
+    "number": "15270",
+    "title": "친구 팰린드롬",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "브루트포스 알고리즘",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15486",
+    "number": "15486",
+    "title": "퇴사 2",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15487",
+    "number": "15487",
+    "title": "A[j]-A[i]+A[l]-A[k]",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15489",
+    "number": "15489",
+    "title": "파스칼 삼각형",
+    "level": 7,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "수학",
+      "조합론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15558",
+    "number": "15558",
+    "title": "점프 게임",
+    "level": 11,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15566",
+    "number": "15566",
+    "title": "개구리 1",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15624",
+    "number": "15624",
+    "title": "피보나치 수 7",
+    "level": 7,
+    "tags": [
+      "수학",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15644",
+    "number": "15644",
+    "title": "구슬 탈출 3",
+    "level": 15,
+    "tags": [
+      "구현",
+      "그래프 탐색",
+      "그래프 이론",
+      "시뮬레이션",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15649",
+    "number": "15649",
+    "title": "N과 M (1)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15650",
+    "number": "15650",
+    "title": "N과 M (2)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15651",
+    "number": "15651",
+    "title": "N과 M (3)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15652",
+    "number": "15652",
+    "title": "N과 M (4)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15653",
+    "number": "15653",
+    "title": "구슬 탈출 4",
+    "level": 15,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15654",
+    "number": "15654",
+    "title": "N과 M (5)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15655",
+    "number": "15655",
+    "title": "N과 M (6)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15656",
+    "number": "15656",
+    "title": "N과 M (7)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15657",
+    "number": "15657",
+    "title": "N과 M (8)",
+    "level": 8,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15658",
+    "number": "15658",
+    "title": "연산자 끼워넣기 (2)",
+    "level": 9,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15659",
+    "number": "15659",
+    "title": "연산자 끼워넣기 (3)",
+    "level": 12,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹",
+      "자료 구조",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15661",
+    "number": "15661",
+    "title": "링크와 스타트",
+    "level": 11,
+    "tags": [
+      "비트마스킹",
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15663",
+    "number": "15663",
+    "title": "N과 M (9)",
+    "level": 9,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15664",
+    "number": "15664",
+    "title": "N과 M (10)",
+    "level": 9,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15665",
+    "number": "15665",
+    "title": "N과 M (11)",
+    "level": 9,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15666",
+    "number": "15666",
+    "title": "N과 M (12)",
+    "level": 9,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15681",
+    "number": "15681",
+    "title": "트리와 쿼리",
+    "level": 11,
+    "tags": [
+      "그래프 이론",
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15683",
+    "number": "15683",
+    "title": "감시",
+    "level": 13,
+    "tags": [
+      "시뮬레이션",
+      "브루트포스 알고리즘",
+      "구현",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15684",
+    "number": "15684",
+    "title": "사다리 조작",
+    "level": 13,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15685",
+    "number": "15685",
+    "title": "드래곤 커브",
+    "level": 13,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15686",
+    "number": "15686",
+    "title": "치킨 배달",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15721",
+    "number": "15721",
+    "title": "번데기",
+    "level": 6,
+    "tags": [
+      "구현",
+      "시뮬레이션",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15723",
+    "number": "15723",
+    "title": "n단 논법",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "플로이드–워셜",
+      "최단 경로",
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15724",
+    "number": "15724",
+    "title": "주지수",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15728",
+    "number": "15728",
+    "title": "에리 - 카드",
+    "level": 8,
+    "tags": [
+      "브루트포스 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15732",
+    "number": "15732",
+    "title": "도토리 숨기기",
+    "level": 14,
+    "tags": [
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15779",
+    "number": "15779",
+    "title": "Zigzag",
+    "level": 6,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15787",
+    "number": "15787",
+    "title": "기차가 어둠을 헤치고 은하수를",
+    "level": 9,
+    "tags": [
+      "비트마스킹",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15789",
+    "number": "15789",
+    "title": "CTP 왕국은 한솔 왕국을 이길 수 있을까?",
+    "level": 12,
+    "tags": [
+      "정렬",
+      "자료 구조",
+      "그래프 이론",
+      "분리 집합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15810",
+    "number": "15810",
+    "title": "풍선 공장",
+    "level": 9,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15823",
+    "number": "15823",
+    "title": "카드 팩 구매하기",
+    "level": 14,
+    "tags": [
+      "두 포인터",
+      "매개 변수 탐색",
+      "이분 탐색",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15831",
+    "number": "15831",
+    "title": "준표의 조약돌",
+    "level": 12,
+    "tags": [
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15886",
+    "number": "15886",
+    "title": "내 선물을 받아줘 2",
+    "level": 8,
+    "tags": [
+      "문자열",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15900",
+    "number": "15900",
+    "title": "나무 탈출",
+    "level": 10,
+    "tags": [
+      "깊이 우선 탐색",
+      "트리",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15918",
+    "number": "15918",
+    "title": "랭퍼든 수열쟁이야!!",
+    "level": 11,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15970",
+    "number": "15970",
+    "title": "화살표 그리기",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15988",
+    "number": "15988",
+    "title": "1, 2, 3 더하기 3",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15989",
+    "number": "15989",
+    "title": "1, 2, 3 더하기 4",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15990",
+    "number": "15990",
+    "title": "1, 2, 3 더하기 5",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15991",
+    "number": "15991",
+    "title": "1, 2, 3 더하기 6",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15992",
+    "number": "15992",
+    "title": "1, 2, 3 더하기 7",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/15993",
+    "number": "15993",
+    "title": "1, 2, 3 더하기 8",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16118",
+    "number": "16118",
+    "title": "달빛 여우",
+    "level": 15,
+    "tags": [
+      "최단 경로",
+      "데이크스트라",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16139",
+    "number": "16139",
+    "title": "인간-컴퓨터 상호작용",
+    "level": 10,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16162",
+    "number": "16162",
+    "title": "가희와 3단 고음",
+    "level": 7,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16174",
+    "number": "16174",
+    "title": "점프왕 쩰리 (Large)",
+    "level": 10,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16194",
+    "number": "16194",
+    "title": "카드 구매하기 2",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16195",
+    "number": "16195",
+    "title": "1, 2, 3 더하기 9",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16198",
+    "number": "16198",
+    "title": "에너지 모으기",
+    "level": 10,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16202",
+    "number": "16202",
+    "title": "MST 게임",
+    "level": 13,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16206",
+    "number": "16206",
+    "title": "롤케이크",
+    "level": 10,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16208",
+    "number": "16208",
+    "title": "귀찮음",
+    "level": 6,
+    "tags": [
+      "수학",
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16234",
+    "number": "16234",
+    "title": "인구 이동",
+    "level": 12,
+    "tags": [
+      "시뮬레이션",
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16235",
+    "number": "16235",
+    "title": "나무 재테크",
+    "level": 13,
+    "tags": [
+      "구현",
+      "시뮬레이션",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16236",
+    "number": "16236",
+    "title": "아기 상어",
+    "level": 13,
+    "tags": [
+      "그래프 탐색",
+      "시뮬레이션",
+      "구현",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16398",
+    "number": "16398",
+    "title": "행성 연결",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16401",
+    "number": "16401",
+    "title": "과자 나눠주기",
+    "level": 9,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16432",
+    "number": "16432",
+    "title": "떡장수와 호랑이",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "다이나믹 프로그래밍",
+      "그래프 이론",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16434",
+    "number": "16434",
+    "title": "드래곤 앤 던전",
+    "level": 12,
+    "tags": [
+      "이분 탐색",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16435",
+    "number": "16435",
+    "title": "스네이크버드",
+    "level": 6,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16437",
+    "number": "16437",
+    "title": "양 구출 작전",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "트리",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16439",
+    "number": "16439",
+    "title": "치킨치킨치킨",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16472",
+    "number": "16472",
+    "title": "고냥이",
+    "level": 12,
+    "tags": [
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16475",
+    "number": "16475",
+    "title": "수학 미로",
+    "level": 15,
+    "tags": [
+      "데이크스트라",
+      "그래프 이론",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16507",
+    "number": "16507",
+    "title": "어두운 건 무서워",
+    "level": 10,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16508",
+    "number": "16508",
+    "title": "전공책",
+    "level": 8,
+    "tags": [
+      "비트마스킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16562",
+    "number": "16562",
+    "title": "친구비",
+    "level": 12,
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16564",
+    "number": "16564",
+    "title": "히오스 프로게이머",
+    "level": 10,
+    "tags": [
+      "매개 변수 탐색",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16637",
+    "number": "16637",
+    "title": "괄호 추가하기",
+    "level": 13,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16719",
+    "number": "16719",
+    "title": "ZOAC",
+    "level": 11,
+    "tags": [
+      "재귀",
+      "문자열",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16724",
+    "number": "16724",
+    "title": "피리 부는 사나이",
+    "level": 13,
+    "tags": [
+      "깊이 우선 탐색",
+      "자료 구조",
+      "그래프 이론",
+      "그래프 탐색",
+      "분리 집합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16918",
+    "number": "16918",
+    "title": "봄버맨",
+    "level": 10,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16922",
+    "number": "16922",
+    "title": "로마 숫자 만들기",
+    "level": 8,
+    "tags": [
+      "조합론",
+      "수학",
+      "브루트포스 알고리즘",
+      "백트래킹",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16926",
+    "number": "16926",
+    "title": "배열 돌리기 1",
+    "level": 11,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16927",
+    "number": "16927",
+    "title": "배열 돌리기 2",
+    "level": 11,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16928",
+    "number": "16928",
+    "title": "뱀과 사다리 게임",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16932",
+    "number": "16932",
+    "title": "모양 만들기",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16935",
+    "number": "16935",
+    "title": "배열 돌리기 3",
+    "level": 11,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16938",
+    "number": "16938",
+    "title": "캠프 준비",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹",
+      "비트마스킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16939",
+    "number": "16939",
+    "title": "2×2×2 큐브",
+    "level": 14,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16943",
+    "number": "16943",
+    "title": "숫자 재배치",
+    "level": 10,
+    "tags": [
+      "수학",
+      "브루트포스 알고리즘",
+      "조합론",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16947",
+    "number": "16947",
+    "title": "서울 지하철 2호선",
+    "level": 13,
+    "tags": [
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16948",
+    "number": "16948",
+    "title": "데스 나이트",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16951",
+    "number": "16951",
+    "title": "블록 놀이",
+    "level": 7,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16953",
+    "number": "16953",
+    "title": "A → B",
+    "level": 9,
+    "tags": [
+      "그리디 알고리즘",
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16954",
+    "number": "16954",
+    "title": "움직이는 미로 탈출",
+    "level": 13,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16960",
+    "number": "16960",
+    "title": "스위치와 램프",
+    "level": 7,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16971",
+    "number": "16971",
+    "title": "배열 B의 값",
+    "level": 13,
+    "tags": [
+      "수학",
+      "그리디 알고리즘",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16973",
+    "number": "16973",
+    "title": "직사각형 탈출",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "누적 합",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16985",
+    "number": "16985",
+    "title": "Maaaaaaaaaze",
+    "level": 14,
+    "tags": [
+      "구현",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16986",
+    "number": "16986",
+    "title": "인싸들의 가위바위보",
+    "level": 14,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16987",
+    "number": "16987",
+    "title": "계란으로 계란치기",
+    "level": 11,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/16988",
+    "number": "16988",
+    "title": "Baaaaaaaaaduk2 (Easy)",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "너비 우선 탐색",
+      "깊이 우선 탐색",
+      "브루트포스 알고리즘",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17069",
+    "number": "17069",
+    "title": "파이프 옮기기 2",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17070",
+    "number": "17070",
+    "title": "파이프 옮기기 1",
+    "level": 11,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17073",
+    "number": "17073",
+    "title": "나무 위의 빗물",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "트리",
+      "그래프 이론",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17085",
+    "number": "17085",
+    "title": "십자가 2개 놓기",
+    "level": 12,
+    "tags": [
+      "브루트포스 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17086",
+    "number": "17086",
+    "title": "아기 상어 2",
+    "level": 9,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17090",
+    "number": "17090",
+    "title": "미로 탈출하기",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "다이나믹 프로그래밍",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17123",
+    "number": "17123",
+    "title": "배열 놀이",
+    "level": 9,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17124",
+    "number": "17124",
+    "title": "두 개의 배열",
+    "level": 8,
+    "tags": [
+      "정렬",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17128",
+    "number": "17128",
+    "title": "소가 정보섬에 올라온 이유",
+    "level": 9,
+    "tags": [
+      "구현",
+      "수학",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17129",
+    "number": "17129",
+    "title": "윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유",
+    "level": 10,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17135",
+    "number": "17135",
+    "title": "캐슬 디펜스",
+    "level": 13,
+    "tags": [
+      "시뮬레이션",
+      "구현",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "브루트포스 알고리즘",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17136",
+    "number": "17136",
+    "title": "색종이 붙이기",
+    "level": 14,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17140",
+    "number": "17140",
+    "title": "이차원 배열과 연산",
+    "level": 12,
+    "tags": [
+      "정렬",
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17141",
+    "number": "17141",
+    "title": "연구소 2",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17142",
+    "number": "17142",
+    "title": "연구소 3",
+    "level": 13,
+    "tags": [
+      "브루트포스 알고리즘",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17143",
+    "number": "17143",
+    "title": "낚시왕",
+    "level": 15,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17144",
+    "number": "17144",
+    "title": "미세먼지 안녕!",
+    "level": 12,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17175",
+    "number": "17175",
+    "title": "피보나치는 지겨웡~",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17179",
+    "number": "17179",
+    "title": "케이크 자르기",
+    "level": 12,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17208",
+    "number": "17208",
+    "title": "카우버거 알바생",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17212",
+    "number": "17212",
+    "title": "달나라 토끼를 위한 구매대금 지불 도우미",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17216",
+    "number": "17216",
+    "title": "가장 큰 감소 부분 수열",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17255",
+    "number": "17255",
+    "title": "N으로 만들기",
+    "level": 12,
+    "tags": [
+      "자료 구조",
+      "트리를 사용한 집합과 맵",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17265",
+    "number": "17265",
+    "title": "나의 인생에는 수학과 함께",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "다이나믹 프로그래밍",
+      "브루트포스 알고리즘",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17266",
+    "number": "17266",
+    "title": "어두운 굴다리",
+    "level": 7,
+    "tags": [
+      "이분 탐색",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17276",
+    "number": "17276",
+    "title": "배열 돌리기",
+    "level": 10,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17291",
+    "number": "17291",
+    "title": "새끼치기",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17352",
+    "number": "17352",
+    "title": "여러분의 다리가 되어 드리겠습니다!",
+    "level": 11,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "자료 구조",
+      "분리 집합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17390",
+    "number": "17390",
+    "title": "이건 꼭 풀어야 해!",
+    "level": 8,
+    "tags": [
+      "정렬",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17393",
+    "number": "17393",
+    "title": "다이나믹 롤러",
+    "level": 8,
+    "tags": [
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17396",
+    "number": "17396",
+    "title": "백도어",
+    "level": 11,
+    "tags": [
+      "데이크스트라",
+      "그래프 이론",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17404",
+    "number": "17404",
+    "title": "RGB거리 2",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17406",
+    "number": "17406",
+    "title": "배열 돌리기 4",
+    "level": 12,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17413",
+    "number": "17413",
+    "title": "단어 뒤집기 2",
+    "level": 8,
+    "tags": [
+      "문자열",
+      "구현",
+      "자료 구조",
+      "스택"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17451",
+    "number": "17451",
+    "title": "평행 우주",
+    "level": 8,
+    "tags": [
+      "수학",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17471",
+    "number": "17471",
+    "title": "게리맨더링",
+    "level": 13,
+    "tags": [
+      "브루트포스 알고리즘",
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "수학",
+      "그래프 이론",
+      "조합론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17472",
+    "number": "17472",
+    "title": "다리 만들기 2",
+    "level": 15,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 탐색",
+      "브루트포스 알고리즘",
+      "최소 스패닝 트리",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17484",
+    "number": "17484",
+    "title": "진우의 달 여행 (Small)",
+    "level": 8,
+    "tags": [
+      "브루트포스 알고리즘",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17485",
+    "number": "17485",
+    "title": "진우의 달 여행 (Large)",
+    "level": 11,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17490",
+    "number": "17490",
+    "title": "일감호에 다리 놓기",
+    "level": 12,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론",
+      "자료 구조",
+      "분리 집합",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17503",
+    "number": "17503",
+    "title": "맥주 축제",
+    "level": 10,
+    "tags": [
+      "이분 탐색",
+      "우선순위 큐",
+      "자료 구조",
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17521",
+    "number": "17521",
+    "title": "Byte Coin",
+    "level": 7,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17609",
+    "number": "17609",
+    "title": "회문",
+    "level": 11,
+    "tags": [
+      "두 포인터",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17610",
+    "number": "17610",
+    "title": "양팔저울",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17615",
+    "number": "17615",
+    "title": "볼 모으기",
+    "level": 10,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17616",
+    "number": "17616",
+    "title": "등수 찾기",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17626",
+    "number": "17626",
+    "title": "Four Squares",
+    "level": 8,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17779",
+    "number": "17779",
+    "title": "게리맨더링 2",
+    "level": 13,
+    "tags": [
+      "시뮬레이션",
+      "구현",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17780",
+    "number": "17780",
+    "title": "새로운 게임",
+    "level": 14,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17822",
+    "number": "17822",
+    "title": "원판 돌리기",
+    "level": 14,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17829",
+    "number": "17829",
+    "title": "222-풀링",
+    "level": 9,
+    "tags": [
+      "구현",
+      "재귀",
+      "분할 정복"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17836",
+    "number": "17836",
+    "title": "공주님을 구해라!",
+    "level": 11,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17837",
+    "number": "17837",
+    "title": "새로운 게임 2",
+    "level": 14,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17845",
+    "number": "17845",
+    "title": "수강 과목",
+    "level": 11,
+    "tags": [
+      "배낭 문제",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/17951",
+    "number": "17951",
+    "title": "흩날리는 시험지 속에서 내 평점이 느껴진거야",
+    "level": 13,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18113",
+    "number": "18113",
+    "title": "그르다 김가놈",
+    "level": 9,
+    "tags": [
+      "이분 탐색",
+      "매개 변수 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18114",
+    "number": "18114",
+    "title": "블랙 프라이데이",
+    "level": 11,
+    "tags": [
+      "정렬",
+      "브루트포스 알고리즘",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18115",
+    "number": "18115",
+    "title": "카드 놓기",
+    "level": 8,
+    "tags": [
+      "덱",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18116",
+    "number": "18116",
+    "title": "로봇 조립",
+    "level": 12,
+    "tags": [
+      "분리 집합",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18222",
+    "number": "18222",
+    "title": "투에-모스 문자열",
+    "level": 9,
+    "tags": [
+      "분할 정복",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18223",
+    "number": "18223",
+    "title": "민준이와 마산 그리고 건우",
+    "level": 12,
+    "tags": [
+      "데이크스트라",
+      "그래프 이론",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18232",
+    "number": "18232",
+    "title": "텔레포트 정거장",
+    "level": 9,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18234",
+    "number": "18234",
+    "title": "당근 훔쳐 먹기",
+    "level": 13,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18243",
+    "number": "18243",
+    "title": "Small World Network",
+    "level": 10,
+    "tags": [
+      "플로이드–워셜",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18258",
+    "number": "18258",
+    "title": "큐 2",
+    "level": 7,
+    "tags": [
+      "자료 구조",
+      "큐"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18290",
+    "number": "18290",
+    "title": "NM과 K (1)",
+    "level": 10,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18311",
+    "number": "18311",
+    "title": "왕복",
+    "level": 6,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18352",
+    "number": "18352",
+    "title": "특정 거리의 도시 찾기",
+    "level": 9,
+    "tags": [
+      "그래프 이론",
+      "데이크스트라",
+      "최단 경로",
+      "그래프 탐색",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18404",
+    "number": "18404",
+    "title": "현명한 나이트",
+    "level": 10,
+    "tags": [
+      "그래프 탐색",
+      "너비 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18405",
+    "number": "18405",
+    "title": "경쟁적 전염",
+    "level": 11,
+    "tags": [
+      "구현",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18427",
+    "number": "18427",
+    "title": "함께 블록 쌓기",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18429",
+    "number": "18429",
+    "title": "근손실",
+    "level": 8,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18430",
+    "number": "18430",
+    "title": "무기 공학",
+    "level": 12,
+    "tags": [
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18500",
+    "number": "18500",
+    "title": "미네랄 2",
+    "level": 15,
+    "tags": [
+      "그래프 탐색",
+      "시뮬레이션",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18511",
+    "number": "18511",
+    "title": "큰 수 구성하기",
+    "level": 6,
+    "tags": [
+      "브루트포스 알고리즘",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18513",
+    "number": "18513",
+    "title": "샘터",
+    "level": 12,
+    "tags": [
+      "너비 우선 탐색",
+      "자료 구조",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18769",
+    "number": "18769",
+    "title": "그리드 네트워크",
+    "level": 12,
+    "tags": [
+      "최소 스패닝 트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18808",
+    "number": "18808",
+    "title": "스티커 붙이기",
+    "level": 13,
+    "tags": [
+      "구현",
+      "시뮬레이션",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18809",
+    "number": "18809",
+    "title": "Gaaaaaaaaaarden",
+    "level": 15,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "시뮬레이션",
+      "구현",
+      "브루트포스 알고리즘",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/18866",
+    "number": "18866",
+    "title": "젊은 날의 생이여",
+    "level": 12,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19236",
+    "number": "19236",
+    "title": "청소년 상어",
+    "level": 14,
+    "tags": [
+      "시뮬레이션",
+      "백트래킹",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19237",
+    "number": "19237",
+    "title": "어른 상어",
+    "level": 15,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19238",
+    "number": "19238",
+    "title": "스타트 택시",
+    "level": 14,
+    "tags": [
+      "시뮬레이션",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19535",
+    "number": "19535",
+    "title": "ㄷㄷㄷㅈ",
+    "level": 13,
+    "tags": [
+      "트리",
+      "조합론",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19539",
+    "number": "19539",
+    "title": "사과나무",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19542",
+    "number": "19542",
+    "title": "전단지 돌리기",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "트리",
+      "깊이 우선 탐색",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19566",
+    "number": "19566",
+    "title": "수열의 구간 평균",
+    "level": 14,
+    "tags": [
+      "트리를 사용한 집합과 맵",
+      "자료 구조",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19581",
+    "number": "19581",
+    "title": "두 번째 트리의 지름",
+    "level": 15,
+    "tags": [
+      "그래프 이론",
+      "트리",
+      "그래프 탐색",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19583",
+    "number": "19583",
+    "title": "싸이버개강총회",
+    "level": 9,
+    "tags": [
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19598",
+    "number": "19598",
+    "title": "최소 회의실 개수",
+    "level": 11,
+    "tags": [
+      "정렬",
+      "우선순위 큐",
+      "자료 구조",
+      "스위핑",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19622",
+    "number": "19622",
+    "title": "회의실 배정 3",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19637",
+    "number": "19637",
+    "title": "IF문 좀 대신 써줘",
+    "level": 8,
+    "tags": [
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19645",
+    "number": "19645",
+    "title": "햄최몇?",
+    "level": 15,
+    "tags": [
+      "배낭 문제",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19844",
+    "number": "19844",
+    "title": "단어 개수 세기",
+    "level": 7,
+    "tags": [
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19939",
+    "number": "19939",
+    "title": "박 터뜨리기",
+    "level": 7,
+    "tags": [
+      "그리디 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19942",
+    "number": "19942",
+    "title": "다이어트",
+    "level": 12,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19947",
+    "number": "19947",
+    "title": "투자의 귀재 배주형",
+    "level": 6,
+    "tags": [
+      "브루트포스 알고리즘",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19948",
+    "number": "19948",
+    "title": "음유시인 영재",
+    "level": 8,
+    "tags": [
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19949",
+    "number": "19949",
+    "title": "영재의 시험",
+    "level": 9,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/19951",
+    "number": "19951",
+    "title": "태상이의 훈련소 생활",
+    "level": 11,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20002",
+    "number": "20002",
+    "title": "사과나무",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20007",
+    "number": "20007",
+    "title": "떡 돌리기",
+    "level": 12,
+    "tags": [
+      "데이크스트라",
+      "최단 경로",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20010",
+    "number": "20010",
+    "title": "악덕 영주 혜유",
+    "level": 14,
+    "tags": [
+      "최소 스패닝 트리",
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20040",
+    "number": "20040",
+    "title": "사이클 게임",
+    "level": 12,
+    "tags": [
+      "분리 집합",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20055",
+    "number": "20055",
+    "title": "컨베이어 벨트 위의 로봇",
+    "level": 11,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20056",
+    "number": "20056",
+    "title": "마법사 상어와 파이어볼",
+    "level": 12,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20057",
+    "number": "20057",
+    "title": "마법사 상어와 토네이도",
+    "level": 13,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20058",
+    "number": "20058",
+    "title": "마법사 상어와 파이어스톰",
+    "level": 13,
+    "tags": [
+      "깊이 우선 탐색",
+      "그래프 이론",
+      "너비 우선 탐색",
+      "구현",
+      "시뮬레이션",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20061",
+    "number": "20061",
+    "title": "모노미노도미노 2",
+    "level": 14,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20114",
+    "number": "20114",
+    "title": "미아 노트",
+    "level": 6,
+    "tags": [
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20115",
+    "number": "20115",
+    "title": "에너지 드링크",
+    "level": 8,
+    "tags": [
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20117",
+    "number": "20117",
+    "title": "호반우 상인의 이상한 품질 계산법",
+    "level": 10,
+    "tags": [
+      "정렬",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20119",
+    "number": "20119",
+    "title": "클레어와 물약",
+    "level": 15,
+    "tags": [
+      "방향 비순환 그래프",
+      "위상 정렬",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20152",
+    "number": "20152",
+    "title": "Game Addiction",
+    "level": 9,
+    "tags": [
+      "수학",
+      "조합론",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20159",
+    "number": "20159",
+    "title": "동작 그만. 밑장 빼기냐?",
+    "level": 12,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20162",
+    "number": "20162",
+    "title": "간식 파티",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20164",
+    "number": "20164",
+    "title": "홀수 홀릭 호석",
+    "level": 11,
+    "tags": [
+      "구현",
+      "브루트포스 알고리즘",
+      "재귀"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20165",
+    "number": "20165",
+    "title": "인내의 도미노 장인 호석",
+    "level": 11,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20166",
+    "number": "20166",
+    "title": "문자열 지옥에 빠진 호석",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "다이나믹 프로그래밍",
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "그래프 탐색",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20168",
+    "number": "20168",
+    "title": "골목 대장 호석 - 기능성",
+    "level": 11,
+    "tags": [
+      "데이크스트라",
+      "백트래킹",
+      "그래프 이론",
+      "브루트포스 알고리즘",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20181",
+    "number": "20181",
+    "title": "꿈틀꿈틀 호석 애벌레 - 효율성",
+    "level": 14,
+    "tags": [
+      "이분 탐색",
+      "두 포인터",
+      "누적 합",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20182",
+    "number": "20182",
+    "title": "골목 대장 호석 - 효율성 1",
+    "level": 13,
+    "tags": [
+      "그래프 이론",
+      "데이크스트라",
+      "최단 경로"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20183",
+    "number": "20183",
+    "title": "골목 대장 호석 - 효율성 2",
+    "level": 14,
+    "tags": [
+      "이분 탐색",
+      "데이크스트라",
+      "최단 경로",
+      "매개 변수 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20207",
+    "number": "20207",
+    "title": "달력",
+    "level": 11,
+    "tags": [
+      "정렬",
+      "구현",
+      "그리디 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20208",
+    "number": "20208",
+    "title": "진우의 민트초코우유",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "백트래킹"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20210",
+    "number": "20210",
+    "title": "파일 탐색기",
+    "level": 13,
+    "tags": [
+      "정렬",
+      "구현",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20291",
+    "number": "20291",
+    "title": "파일 정리",
+    "level": 8,
+    "tags": [
+      "자료 구조",
+      "파싱",
+      "문자열",
+      "트리를 사용한 집합과 맵",
+      "해시를 사용한 집합과 맵",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20300",
+    "number": "20300",
+    "title": "서강근육맨",
+    "level": 8,
+    "tags": [
+      "그리디 알고리즘",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20327",
+    "number": "20327",
+    "title": "배열 돌리기 6",
+    "level": 14,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20364",
+    "number": "20364",
+    "title": "부동산 다툼",
+    "level": 10,
+    "tags": [
+      "트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20365",
+    "number": "20365",
+    "title": "블로그2",
+    "level": 8,
+    "tags": [
+      "그리디 알고리즘",
+      "문자열"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20366",
+    "number": "20366",
+    "title": "같이 눈사람 만들래?",
+    "level": 13,
+    "tags": [
+      "두 포인터",
+      "정렬"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20436",
+    "number": "20436",
+    "title": "ZOAC 3",
+    "level": 7,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20438",
+    "number": "20438",
+    "title": "출석체크",
+    "level": 9,
+    "tags": [
+      "누적 합",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20442",
+    "number": "20442",
+    "title": "ㅋㅋ루ㅋㅋ",
+    "level": 14,
+    "tags": [
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20444",
+    "number": "20444",
+    "title": "색종이와 가위",
+    "level": 11,
+    "tags": [
+      "수학",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20495",
+    "number": "20495",
+    "title": "수열과 헌팅",
+    "level": 11,
+    "tags": [
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20542",
+    "number": "20542",
+    "title": "받아쓰기",
+    "level": 13,
+    "tags": [
+      "문자열",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20543",
+    "number": "20543",
+    "title": "폭탄 던지는 태영이",
+    "level": 15,
+    "tags": [
+      "그리디 알고리즘",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20546",
+    "number": "20546",
+    "title": "🐜 기적의 매매법 🐜",
+    "level": 6,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20551",
+    "number": "20551",
+    "title": "Sort 마스터 배지훈의 후계자",
+    "level": 7,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "정렬",
+      "자료 구조",
+      "이분 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20665",
+    "number": "20665",
+    "title": "독서실 거리두기",
+    "level": 12,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20667",
+    "number": "20667",
+    "title": "크롬",
+    "level": 15,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "배낭 문제"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20922",
+    "number": "20922",
+    "title": "겹치는 건 싫어",
+    "level": 10,
+    "tags": [
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20924",
+    "number": "20924",
+    "title": "트리의 기둥과 가지",
+    "level": 12,
+    "tags": [
+      "그래프 탐색",
+      "트리",
+      "깊이 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20950",
+    "number": "20950",
+    "title": "미술가 미미",
+    "level": 9,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/20955",
+    "number": "20955",
+    "title": "민서의 응급 수술",
+    "level": 12,
+    "tags": [
+      "자료 구조",
+      "분리 집합",
+      "트리",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21275",
+    "number": "21275",
+    "title": "폰 호석만",
+    "level": 9,
+    "tags": [
+      "브루트포스 알고리즘",
+      "수학"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21276",
+    "number": "21276",
+    "title": "계보 복원가 호석",
+    "level": 14,
+    "tags": [
+      "자료 구조",
+      "방향 비순환 그래프",
+      "정렬",
+      "해시를 사용한 집합과 맵",
+      "위상 정렬",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21277",
+    "number": "21277",
+    "title": "짠돌이 호석",
+    "level": 13,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21278",
+    "number": "21278",
+    "title": "호석이 두 마리 치킨",
+    "level": 11,
+    "tags": [
+      "브루트포스 알고리즘",
+      "플로이드–워셜",
+      "최단 경로",
+      "그래프 이론",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21314",
+    "number": "21314",
+    "title": "민겸 수",
+    "level": 10,
+    "tags": [
+      "그리디 알고리즘",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21315",
+    "number": "21315",
+    "title": "카드 섞기",
+    "level": 11,
+    "tags": [
+      "구현",
+      "시뮬레이션",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21317",
+    "number": "21317",
+    "title": "징검다리 건너기",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21318",
+    "number": "21318",
+    "title": "피아노 체조",
+    "level": 10,
+    "tags": [
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21608",
+    "number": "21608",
+    "title": "상어 초등학교",
+    "level": 11,
+    "tags": [
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21609",
+    "number": "21609",
+    "title": "상어 중학교",
+    "level": 14,
+    "tags": [
+      "구현",
+      "너비 우선 탐색",
+      "그래프 이론",
+      "그래프 탐색",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21610",
+    "number": "21610",
+    "title": "마법사 상어와 비바라기",
+    "level": 11,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21611",
+    "number": "21611",
+    "title": "마법사 상어와 블리자드",
+    "level": 15,
+    "tags": [
+      "시뮬레이션",
+      "구현"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21757",
+    "number": "21757",
+    "title": "나누기",
+    "level": 14,
+    "tags": [
+      "누적 합",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21758",
+    "number": "21758",
+    "title": "꿀 따기",
+    "level": 11,
+    "tags": [
+      "그리디 알고리즘",
+      "누적 합"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21922",
+    "number": "21922",
+    "title": "학부 연구생 민상",
+    "level": 11,
+    "tags": [
+      "시뮬레이션",
+      "그래프 탐색",
+      "구현",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21923",
+    "number": "21923",
+    "title": "곡예 비행",
+    "level": 12,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21924",
+    "number": "21924",
+    "title": "도시 건설",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "최소 스패닝 트리"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21925",
+    "number": "21925",
+    "title": "짝수 팰린드롬",
+    "level": 13,
+    "tags": [
+      "그리디 알고리즘",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21937",
+    "number": "21937",
+    "title": "작업",
+    "level": 10,
+    "tags": [
+      "깊이 우선 탐색",
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21938",
+    "number": "21938",
+    "title": "영상처리",
+    "level": 9,
+    "tags": [
+      "너비 우선 탐색",
+      "그래프 탐색",
+      "깊이 우선 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21939",
+    "number": "21939",
+    "title": "문제 추천 시스템 Version 1",
+    "level": 12,
+    "tags": [
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "트리를 사용한 집합과 맵",
+      "우선순위 큐"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21940",
+    "number": "21940",
+    "title": "가운데에서 만나기",
+    "level": 12,
+    "tags": [
+      "최단 경로",
+      "그래프 이론",
+      "플로이드–워셜"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21941",
+    "number": "21941",
+    "title": "문자열 제거",
+    "level": 12,
+    "tags": [
+      "문자열",
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21942",
+    "number": "21942",
+    "title": "부품 대여장",
+    "level": 14,
+    "tags": [
+      "구현",
+      "문자열",
+      "자료 구조",
+      "해시를 사용한 집합과 맵",
+      "파싱"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21943",
+    "number": "21943",
+    "title": "연산 최대로",
+    "level": 14,
+    "tags": [
+      "그리디 알고리즘",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/21944",
+    "number": "21944",
+    "title": "문제 추천 시스템 Version 2",
+    "level": 14,
+    "tags": [
+      "트리를 사용한 집합과 맵",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22856",
+    "number": "22856",
+    "title": "트리 순회",
+    "level": 12,
+    "tags": [
+      "트리",
+      "그래프 탐색",
+      "그래프 이론"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22857",
+    "number": "22857",
+    "title": "가장 긴 짝수 연속한 부분 수열 (small)",
+    "level": 9,
+    "tags": [
+      "다이나믹 프로그래밍",
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22858",
+    "number": "22858",
+    "title": "원상 복구 (small)",
+    "level": 8,
+    "tags": [
+      "구현",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22860",
+    "number": "22860",
+    "title": "폴더 정리 (small)",
+    "level": 13,
+    "tags": [
+      "해시를 사용한 집합과 맵",
+      "그래프 이론",
+      "문자열",
+      "트리",
+      "자료 구조",
+      "그래프 탐색",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22861",
+    "number": "22861",
+    "title": "폴더 정리 (large)",
+    "level": 15,
+    "tags": [
+      "시뮬레이션",
+      "그래프 탐색",
+      "트리",
+      "다이나믹 프로그래밍",
+      "트리에서의 다이나믹 프로그래밍",
+      "자료 구조",
+      "그래프 이론",
+      "문자열",
+      "해시를 사용한 집합과 맵",
+      "구현",
+      "파싱",
+      "깊이 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22862",
+    "number": "22862",
+    "title": "가장 긴 짝수 연속한 부분 수열 (large)",
+    "level": 11,
+    "tags": [
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22865",
+    "number": "22865",
+    "title": "가장 먼 곳",
+    "level": 12,
+    "tags": [
+      "그래프 이론",
+      "최단 경로",
+      "데이크스트라"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22866",
+    "number": "22866",
+    "title": "탑 보기",
+    "level": 13,
+    "tags": [
+      "스택",
+      "자료 구조"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22868",
+    "number": "22868",
+    "title": "산책 (small)",
+    "level": 13,
+    "tags": [
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22869",
+    "number": "22869",
+    "title": "징검다리 건너기 (small)",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22871",
+    "number": "22871",
+    "title": "징검다리 건너기 (large)",
+    "level": 10,
+    "tags": [
+      "다이나믹 프로그래밍"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22942",
+    "number": "22942",
+    "title": "데이터 체커",
+    "level": 12,
+    "tags": [
+      "스택",
+      "자료 구조",
+      "정렬",
+      "기하학",
+      "스위핑"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22944",
+    "number": "22944",
+    "title": "죽음의 비",
+    "level": 13,
+    "tags": [
+      "백트래킹",
+      "브루트포스 알고리즘",
+      "그래프 탐색",
+      "그래프 이론",
+      "너비 우선 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22945",
+    "number": "22945",
+    "title": "팀 빌딩",
+    "level": 12,
+    "tags": [
+      "두 포인터"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22947",
+    "number": "22947",
+    "title": "실행 시간",
+    "level": 14,
+    "tags": [
+      "방향 비순환 그래프",
+      "위상 정렬",
+      "그래프 이론",
+      "브루트포스 알고리즘"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/22948",
+    "number": "22948",
+    "title": "원 이동하기 2",
+    "level": 14,
+    "tags": [
+      "트리",
+      "너비 우선 탐색",
+      "자료 구조",
+      "그래프 이론",
+      "스택",
+      "그래프 탐색"
+    ]
+  },
+  {
+    "url": "https://www.acmicpc.net/problem/23309",
+    "number": "23309",
+    "title": "철도 공사",
+    "level": 12,
+    "tags": [
+      "구현",
+      "자료 구조",
+      "연결 리스트"
+    ]
+  }
+]

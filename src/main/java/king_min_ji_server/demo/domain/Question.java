@@ -3,6 +3,7 @@ package king_min_ji_server.demo.domain;
 
 import jakarta.persistence.*;
 import king_min_ji_server.demo.domain.common.BaseEntity;
+import king_min_ji_server.demo.domain.mapping.Question_Tag;
 import king_min_ji_server.demo.domain.mapping.User_Question;
 import lombok.*;
 
@@ -19,6 +20,9 @@ public class Question extends BaseEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @Column(nullable = false, length = 255)
+    private String url;
+
     @Column(nullable = false, length = 30)
     private String number;
 
@@ -28,7 +32,10 @@ public class Question extends BaseEntity {
     @Column(nullable = false, length = 30)
     private String level;
 
-    @OneToMany(mappedBy = "question", cascade = CascadeType.ALL)
-    private List<User_Question> userLanguageList = new ArrayList<>();
+    @OneToMany(mappedBy = "question", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Question_Tag> questionTags = new ArrayList<>();
 
+
+    @OneToMany(mappedBy = "question", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<User_Question> userLanguageList = new ArrayList<>();
 }
