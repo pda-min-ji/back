@@ -24,13 +24,13 @@ public class Question extends BaseEntity {
     private String url;
 
     @Column(nullable = false, length = 30)
-    private String number;
+    private int number;
 
     @Column(nullable = false, length = 30)
     private String title;
 
     @Column(nullable = false, length = 30)
-    private String level;
+    private int level;
 
     @OneToMany(mappedBy = "question", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Question_Tag> questionTags = new ArrayList<>();

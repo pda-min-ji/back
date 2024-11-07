@@ -3,17 +3,18 @@ package king_min_ji_server.demo.service;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.transaction.Transactional;
+import king_min_ji_server.demo.converter.QuestionConverter;
 import king_min_ji_server.demo.domain.Question;
 import king_min_ji_server.demo.domain.Tag;
 import king_min_ji_server.demo.domain.mapping.Question_Tag;
 import king_min_ji_server.demo.repostiory.QuestionRepository;
 import king_min_ji_server.demo.repostiory.QuestionTagRepository;
 import king_min_ji_server.demo.repostiory.TagRepository;
+import king_min_ji_server.demo.web.dto.QuestionResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -24,12 +25,14 @@ public class QuestionService {
     private QuestionRepository questionRepository;
     private TagRepository tagRepository;
     private QuestionTagRepository questionTagRepository;
+    private final QuestionConverter questionConverter;
 
     @Autowired
-    public QuestionService(QuestionRepository questionRepository, TagRepository tagRepository, QuestionTagRepository questionTagRepository) {
+    public QuestionService(QuestionRepository questionRepository, TagRepository tagRepository, QuestionTagRepository questionTagRepository, QuestionConverter questionConverter) {
         this.questionRepository = questionRepository;
         this.tagRepository = tagRepository;
         this.questionTagRepository = questionTagRepository;
+        this.questionConverter = questionConverter;
     }
     // output.json DB 슈슉
     @Transactional
@@ -43,14 +46,14 @@ public class QuestionService {
 
         for (JsonNode node : root) {
             // 문제 번호로 Question 엔티티 검색 또는 생성
-            String problemNumber = node.get("number").asText();
+            int problemNumber = node.get("number").asInt();
             Optional<Question> optionalQuestion = questionRepository.findByNumber(problemNumber);
 
             Question question = optionalQuestion.orElseGet(() -> Question.builder()
                     .url(node.get("url").asText())
                     .number(problemNumber)
                     .title(node.get("title").asText())
-                    .level(node.get("level").asText())
+                    .level(node.get("level").asInt())
                     .build()
             );
 
@@ -82,5 +85,18 @@ public class QuestionService {
             Optional.ofNullable(question.getQuestionTags()).orElse(new ArrayList<>()).addAll(questionTags);
             questionRepository.save(question);
         }
+    }
+
+    @Transactional
+    public List<QuestionResponse> getRandomQuestion() {
+        List<Question> questions = questionRepository.findByRandom3();
+        List<QuestionResponse> dtos = new ArrayList<>();
+
+        for (Question question : questions) {
+            QuestionResponse dto = questionConverter.QuestionToQuestionResponseDTO(question);
+            dtos.add(dto);
+        }
+
+        return dtos;
     }
 }
