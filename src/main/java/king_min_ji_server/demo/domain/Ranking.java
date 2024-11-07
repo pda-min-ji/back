@@ -20,6 +20,7 @@ public class Ranking extends BaseEntity {
     private Long id;
 
     // 순위를 나타내는 컬럼
+    @Column(name = "`rank`")
     private Integer rank;
 
     // 사용자 식별을 위한 ID
