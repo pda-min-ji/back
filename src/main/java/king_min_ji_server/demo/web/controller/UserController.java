@@ -29,6 +29,7 @@ public class UserController {
         if (isAuthenticated) {
             String token = jwtUtil.generateToken(loginRequest.getName()); // JWT 토큰 생성
             return ResponseEntity.ok().body("Bearer " + token);
+
         } else {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("Invalid credentials");
         }
