@@ -25,7 +25,6 @@ public class User extends BaseEntity {
     @Column(nullable = false, length = 30)
     private String bojId;
 
-    @Column(nullable = false, length = 30)
     private String imgPath;
 
     @Column(nullable = false, length = 100)

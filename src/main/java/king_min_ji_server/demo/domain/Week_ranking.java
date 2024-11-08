@@ -25,7 +25,6 @@ public class Week_ranking extends BaseEntity {
     // 유저의 점수
     private Integer point;
 
-    @Column(nullable = false, length = 30)
     private String imgPath;
 
     @Column(nullable = false, length = 30)
