@@ -27,37 +27,22 @@ public class SecurityConfig {
                 .csrf().disable()
                 .authorizeHttpRequests(authorize -> authorize
                         .requestMatchers(
-                                "/v2/api-docs",
-                                "/v3/api-docs",
-<<<<<<< HEAD
-                                "/v3/api-docs/swagger-config",  // swagger-config 경로 추가
-                                "/swagger-resources/**",
-                                "/swagger-ui/**",
-                                "/swagger-ui.html",
-                                "/webjars/**",
-                                "/questions/correct",
-                                "/questions/"
-                        ).permitAll()
-                        .requestMatchers("/users/signUp", "/users/login", "/questions/correct","/questions").permitAll() // 인증 없이 접근 허용
-                        .anyRequest().authenticated() // 나머지 요청은 인증 필요
-=======
-                                "/v3/api-docs/swagger-config",
-                                "/swagger-resources/**",
-                                "/swagger-ui/**",
-                                "/swagger-ui.html",
-                                "/webjars/**"
-                        ).permitAll()
-                        .requestMatchers(
                                 "/users/signUp",
                                 "/users/login",
                                 "/users",
                                 "/rank/week",
                                 "/rank/total",
-                                "/health"
+                                "/health",
+                                "/v3/api-docs/swagger-config",
+                                "/swagger-resources/**",
+                                "/swagger-ui/**",
+                                "/swagger-ui.html",
+                                "/webjars/**",
+                                "/questions/",
+                                "/questions/correct"
                         ).permitAll()
                         .requestMatchers("/batch/**").permitAll() // 배치 작업 경로 보안 제외
                         .anyRequest().authenticated()
->>>>>>> 3cac3e144d678470e3e22f4089f451b1a38c3dd6
                 )
                 .sessionManagement(session -> session
                         .sessionCreationPolicy(SessionCreationPolicy.STATELESS)
