@@ -1,8 +1,8 @@
 package king_min_ji_server.demo.service;
 
 import jakarta.transaction.Transactional;
-import king_min_ji_server.demo.repostiory.QuestionRepository;
-import king_min_ji_server.demo.repostiory.QuestionTagRepository;
+import king_min_ji_server.demo.repository.QuestionRepository;
+import king_min_ji_server.demo.repository.QuestionTagRepository;
 import king_min_ji_server.demo.web.dto.QuestionResponse;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
