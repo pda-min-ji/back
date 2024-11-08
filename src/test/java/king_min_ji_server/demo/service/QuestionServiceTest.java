@@ -4,6 +4,7 @@ import jakarta.transaction.Transactional;
 import king_min_ji_server.demo.repostiory.QuestionRepository;
 import king_min_ji_server.demo.repostiory.QuestionTagRepository;
 import king_min_ji_server.demo.web.dto.QuestionResponse;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -34,7 +35,7 @@ public class QuestionServiceTest {
         System.out.println("시작");
     }
 
-    @BeforeEach
+    @AfterEach
     public void 종료() {
         System.out.println("종료");
     }
@@ -51,4 +52,18 @@ public class QuestionServiceTest {
 
         System.out.println(dtos);
     }
+
+    @Test
+    public void 유저가푼문제저장_false() {
+        Boolean answer = questionService.saveUserQuestion("jtkim965",1823);
+
+        System.out.println(answer);
+    }
+    @Test
+    public void 유저가푼문제저장_true() {
+        Boolean answer = questionService.saveUserQuestion("jtkim965",1003);
+
+        System.out.println(answer);
+    }
+
 }

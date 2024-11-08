@@ -8,6 +8,7 @@ import java.util.Optional;
 public interface UserRepository extends JpaRepository<User, Long> {
     boolean existsByBojId(String bojId); // 필드명과 정확히 일치하도록 수정
     Optional<User> findByName(String name);
+    Optional<User> findByBojId(String BojId);
 }
 
 
