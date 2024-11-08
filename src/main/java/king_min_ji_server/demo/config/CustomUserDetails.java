@@ -1,4 +1,4 @@
-package king_min_ji_server.demo.domain;
+package king_min_ji_server.demo.config;
 
 import king_min_ji_server.demo.domain.User;
 import org.springframework.security.core.GrantedAuthority;
