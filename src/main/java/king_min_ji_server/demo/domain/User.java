@@ -36,6 +36,6 @@ public class User extends BaseEntity {
 
     // boj_id에 대한 getter 메소드 추가
     public String getBojId() {
-        return boj_id;
+        return bojId;
     }
 }

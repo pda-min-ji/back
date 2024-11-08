@@ -7,7 +7,7 @@ import king_min_ji_server.demo.domain.User;
 import king_min_ji_server.demo.repository.UserRepository;
 import king_min_ji_server.demo.web.dto.ProfileResponse;
 import org.springframework.beans.factory.annotation.Autowired;
-import king_min_ji_server.demo.repostiory.UserRepository;
+import king_min_ji_server.demo.repository.UserRepository;
 import king_min_ji_server.demo.web.dto.SignUpRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -19,17 +19,16 @@ import org.springframework.stereotype.Service;
 @Service
 @RequiredArgsConstructor
 public class UserService implements UserDetailsService {
-public class UserService {
 
     private final UserRepository userRepository;
     private final PasswordEncoder passwordEncoder;
     private final UserConverter userConverter;
     // 생성자 주입
-    @Autowired
-    public UserService(UserRepository userRepository, UserConverter userConverter) {
-        this.userRepository = userRepository;
-        this.userConverter = userConverter;
-    }
+//    @Autowired
+//    public UserService(UserRepository userRepository, UserConverter userConverter) {
+//        this.userRepository = userRepository;
+//        this.userConverter = userConverter;
+//    }
 
     @Transactional
     public User signUp(SignUpRequestDto signUpRequestDto) {
@@ -47,14 +46,16 @@ public class UserService {
 
         return userRepository.save(user);
     }
+
     public User login(String name, String rawPassword) {
         User user = userRepository.findByName(name)
                 .orElseThrow(() -> new IllegalArgumentException("User not found"));
-        return passwordEncoder.matches(rawPassword, user.getPassword())? user : null;
+        return passwordEncoder.matches(rawPassword, user.getPassword()) ? user : null;
+    }
+
     public ProfileResponse getUserProfile(String bojId) {
         User user = userRepository.findByBojId(bojId)
                 .orElseThrow(() -> new RuntimeException("User not found"));  // 해당 bojId로 User를 찾지 못하면 예외 발생
-
         // UserConverter를 사용하여 User 객체를 ProfileResponse로 변환
         return userConverter.UserToProfileResponse(user);
     }

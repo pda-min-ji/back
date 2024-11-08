@@ -3,7 +3,7 @@ package king_min_ji_server.demo.web.dto;
 import lombok.*;
 
 import java.util.List;
-//
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
