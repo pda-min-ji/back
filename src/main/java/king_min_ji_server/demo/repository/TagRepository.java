@@ -1,4 +1,4 @@
-package king_min_ji_server.demo.repostiory;
+package king_min_ji_server.demo.repository;
 
 import king_min_ji_server.demo.domain.Tag;
 import org.springframework.data.jpa.repository.JpaRepository;

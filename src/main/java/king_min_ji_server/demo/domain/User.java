@@ -25,6 +25,8 @@ public class User extends BaseEntity {
     @Column(nullable = false, length = 30)
     private String bojId;
 
+    private String imgPath;
+
     @Column(nullable = false, length = 100)
     private String password;
 
@@ -33,4 +35,9 @@ public class User extends BaseEntity {
 
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
     private List<User_Question> userLanguageList = new ArrayList<>();
+
+    // boj_id에 대한 getter 메소드 추가
+    public String getBojId() {
+        return bojId;
+    }
 }
