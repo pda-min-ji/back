@@ -1,7 +1,7 @@
 package king_min_ji_server.demo.service;
 
 import jakarta.transaction.Transactional;
-import king_min_ji_server.demo.domain.CustomUserDetails;
+import king_min_ji_server.demo.config.CustomUserDetails;
 import king_min_ji_server.demo.converter.UserConverter;
 import king_min_ji_server.demo.domain.User;
 import king_min_ji_server.demo.repository.UserRepository;
