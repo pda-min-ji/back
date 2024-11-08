@@ -36,4 +36,9 @@ public class User extends BaseEntity {
 
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
     private List<User_Question> userLanguageList = new ArrayList<>();
+
+    // boj_id에 대한 getter 메소드 추가
+    public String getBojId() {
+        return bojId;
+    }
 }

@@ -2,7 +2,7 @@ package king_min_ji_server.demo.converter;
 
 import king_min_ji_server.demo.domain.Question;
 import king_min_ji_server.demo.domain.mapping.Question_Tag;
-import king_min_ji_server.demo.repostiory.QuestionTagRepository;
+import king_min_ji_server.demo.repository.QuestionTagRepository;
 import king_min_ji_server.demo.web.dto.QuestionResponse;
 import org.springframework.stereotype.Component;
 
