@@ -1,7 +1,7 @@
 package king_min_ji_server.demo;
 
 import king_min_ji_server.demo.config.SecurityConfig;
-import king_min_ji_server.demo.config.WebConfig;
+//import king_min_ji_server.demo.config.WebConfig;
 import king_min_ji_server.demo.domain.Week_ranking;
 import king_min_ji_server.demo.repository.WeekRankingRepository;
 import org.junit.jupiter.api.BeforeEach;
@@ -35,8 +35,8 @@ public class ResetWeekRankingJobTest {
     @MockBean
     private SecurityConfig securityConfig;  // SecurityConfig의 빈을 목킹하여 테스트에 포함되지 않도록 함
 
-    @MockBean
-    private WebConfig webConfig;  // WebConfig의 빈을 목킹하여 테스트에 포함되지 않도록 함
+//    @MockBean
+//    private WebConfig webConfig;  // WebConfig의 빈을 목킹하여 테스트에 포함되지 않도록 함
 
     @BeforeEach
     @Rollback(false)  // 테스트 전에 DB에 데이터가 저장되도록 설정
