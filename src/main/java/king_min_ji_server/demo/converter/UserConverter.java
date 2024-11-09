@@ -5,6 +5,7 @@ import king_min_ji_server.demo.domain.User;
 import king_min_ji_server.demo.repository.UserRepository;
 import king_min_ji_server.demo.web.dto.ProfileResponseDTO;
 import king_min_ji_server.demo.web.dto.QuestionResponseDTO;
+import king_min_ji_server.demo.web.dto.UserProfileResponseDto;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
@@ -32,6 +33,15 @@ public class UserConverter {
                 .bojId(user.getBojId())      // User 객체에서 bojId를 가져와서 설정
                 .name(user.getName())        // User 객체에서 name을 가져와서 설정
                 .solvedQ(solvedQ)
+                .build();
+    }
+
+    public UserProfileResponseDto userToUserProfileResponse(User user, String token) {
+        return UserProfileResponseDto.builder()
+                .bojId(user.getBojId())
+                .id(user.getId())
+                .name(user.getName())
+                .token(token)
                 .build();
     }
 

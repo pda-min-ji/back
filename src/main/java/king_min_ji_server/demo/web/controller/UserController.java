@@ -4,6 +4,7 @@ import king_min_ji_server.demo.config.JwtUtil;
 import king_min_ji_server.demo.domain.User;
 import king_min_ji_server.demo.apiPayload.ApiResponse;
 import king_min_ji_server.demo.service.UserService;
+import king_min_ji_server.demo.web.dto.ProfileResponseDTO;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -23,7 +24,6 @@ import org.springframework.web.bind.annotation.*;
 public class UserController {
 
     private final UserService userService;
-    private final JwtUtil jwtUtil;
 
 //    @Autowired
 //    public UserController(UserService userService) {
@@ -39,12 +39,10 @@ public class UserController {
 
     @PostMapping("/login")
     public ResponseEntity<Object> login(@RequestBody LoginRequestDto loginRequest) {
-        User user = userService.login(loginRequest.getName(), loginRequest.getPassword());
+        UserProfileResponseDto user = userService.login(loginRequest.getName(), loginRequest.getPassword());
 
         if (user != null) {
-            String token = jwtUtil.generateToken(loginRequest.getName());
-            UserProfileResponseDto response = new UserProfileResponseDto(user.getName(), "Bearer " + token, user.getBojId());
-            return ResponseEntity.ok(response);
+            return ResponseEntity.ok(user);
         } else {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("Invalid credentials");
         }
