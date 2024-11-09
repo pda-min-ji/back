@@ -24,7 +24,6 @@ import org.springframework.web.bind.annotation.*;
 public class UserController {
 
     private final UserService userService;
-    private final JwtUtil jwtUtil;
 
 //    @Autowired
 //    public UserController(UserService userService) {
@@ -43,8 +42,6 @@ public class UserController {
         UserProfileResponseDto user = userService.login(loginRequest.getName(), loginRequest.getPassword());
 
         if (user != null) {
-            String token = jwtUtil.generateToken(loginRequest.getName());
-//            UserProfileResponseDto response = new UserProfileResponseDto(user.getName(), "Bearer " + token, user.getBojId());
             return ResponseEntity.ok(user);
         } else {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("Invalid credentials");
