@@ -10,11 +10,23 @@ import java.util.List;
 @Setter
 @Builder
 @ToString
-public class QuestionResponse {
+public class QuestionResponseDTO {
+
     private Long id;
     private String url;
     private int number;
     private String title;
     private int level;
     private List<String> tags;
+
+    @Builder
+    @Getter
+    @NoArgsConstructor
+    @AllArgsConstructor
+    public static class QuestionDTO {
+        private Long id;
+        private String title;
+        private String url;
+        private int level;
+    }
 }

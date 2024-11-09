@@ -4,8 +4,6 @@ import king_min_ji_server.demo.config.JwtUtil;
 import king_min_ji_server.demo.domain.User;
 import king_min_ji_server.demo.apiPayload.ApiResponse;
 import king_min_ji_server.demo.service.UserService;
-import king_min_ji_server.demo.web.dto.ProfileResponse;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,8 +14,6 @@ import king_min_ji_server.demo.web.dto.UserProfileResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.security.core.annotation.AuthenticationPrincipal;
-import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.*;
 
 
@@ -54,10 +50,9 @@ public class UserController {
         }
     }
 
-    @GetMapping("")
-    public ResponseEntity<ApiResponse<ProfileResponse>> getUserProfile(@RequestParam(name = "bojId") String bojId) {
-        ProfileResponse response = userService.getUserProfile(bojId);
-        return ResponseEntity.ok(ApiResponse.onSuccess(response));
+    @GetMapping("/profile")
+    public ApiResponse<?> getUserProfile(@RequestParam(name = "userId") Long userId) {
+        return ApiResponse.onSuccess(userService.getUserProfile(userId));
     }
 }
 

@@ -11,7 +11,7 @@ import king_min_ji_server.demo.repository.*;
 import king_min_ji_server.demo.repository.QuestionRepository;
 import king_min_ji_server.demo.repository.QuestionTagRepository;
 import king_min_ji_server.demo.repository.TagRepository;
-import king_min_ji_server.demo.web.dto.QuestionResponse;
+import king_min_ji_server.demo.web.dto.QuestionResponseDTO;
 import king_min_ji_server.demo.web.dto.TotalPointResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -107,12 +107,12 @@ public class QuestionService {
     }
 
     @Transactional
-    public List<QuestionResponse> getRandomQuestion() {
+    public List<QuestionResponseDTO> getRandomQuestion() {
         List<Question> questions = questionRepository.findByRandom3();
-        List<QuestionResponse> dtos = new ArrayList<>();
+        List<QuestionResponseDTO> dtos = new ArrayList<>();
 
         for (Question question : questions) {
-            QuestionResponse dto = questionConverter.QuestionToQuestionResponseDTO(question);
+            QuestionResponseDTO dto = questionConverter.QuestionToQuestionResponseDTO(question);
             dtos.add(dto);
         }
 

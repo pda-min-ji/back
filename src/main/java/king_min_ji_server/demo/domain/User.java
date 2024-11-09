@@ -34,7 +34,7 @@ public class User extends BaseEntity {
     private Point point;
 
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
-    private List<User_Question> userLanguageList = new ArrayList<>();
+    private List<User_Question> userQuestionsList = new ArrayList<>();
 
     // boj_id에 대한 getter 메소드 추가
     public String getBojId() {

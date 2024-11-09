@@ -3,7 +3,7 @@ package king_min_ji_server.demo.service;
 import jakarta.transaction.Transactional;
 import king_min_ji_server.demo.repository.QuestionRepository;
 import king_min_ji_server.demo.repository.QuestionTagRepository;
-import king_min_ji_server.demo.web.dto.QuestionResponse;
+import king_min_ji_server.demo.web.dto.QuestionResponseDTO;
 import king_min_ji_server.demo.web.dto.TotalPointResponse;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -49,7 +49,7 @@ public class QuestionServiceTest {
     @Test
     @Transactional
     public void 테스트조회() {
-        List<QuestionResponse> dtos = questionService.getRandomQuestion();
+        List<QuestionResponseDTO> dtos = questionService.getRandomQuestion();
 
         System.out.println(dtos);
     }
