@@ -2,11 +2,13 @@ package king_min_ji_server.demo.service;
 
 import jakarta.transaction.Transactional;
 import king_min_ji_server.demo.config.CustomUserDetails;
+import king_min_ji_server.demo.config.JwtUtil;
 import king_min_ji_server.demo.converter.UserConverter;
 import king_min_ji_server.demo.domain.User;
 import king_min_ji_server.demo.repository.UserRepository;
 import king_min_ji_server.demo.web.dto.ProfileResponseDTO;
 import king_min_ji_server.demo.web.dto.SignUpRequestDto;
+import king_min_ji_server.demo.web.dto.UserProfileResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -21,6 +23,7 @@ public class UserService implements UserDetailsService {
     private final UserRepository userRepository;
     private final PasswordEncoder passwordEncoder;
     private final UserConverter userConverter;
+    private final JwtUtil jwtUtil;
     // 생성자 주입
 //    @Autowired
 //    public UserService(UserRepository userRepository, UserConverter userConverter) {
@@ -45,10 +48,11 @@ public class UserService implements UserDetailsService {
         return userRepository.save(user);
     }
 
-    public User login(String name, String rawPassword) {
+    public UserProfileResponseDto login(String name, String rawPassword) {
         User user = userRepository.findByName(name)
                 .orElseThrow(() -> new IllegalArgumentException("User not found"));
-        return passwordEncoder.matches(rawPassword, user.getPassword()) ? user : null;
+        String token = jwtUtil.generateToken(name);
+        return passwordEncoder.matches(rawPassword, user.getPassword()) ? userConverter.userToUserProfileResponse(user,token) : null;
     }
 
     public ProfileResponseDTO getUserProfile(Long userId) {
