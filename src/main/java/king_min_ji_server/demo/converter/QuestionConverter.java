@@ -3,7 +3,7 @@ package king_min_ji_server.demo.converter;
 import king_min_ji_server.demo.domain.Question;
 import king_min_ji_server.demo.domain.mapping.Question_Tag;
 import king_min_ji_server.demo.repository.QuestionTagRepository;
-import king_min_ji_server.demo.web.dto.QuestionResponse;
+import king_min_ji_server.demo.web.dto.QuestionResponseDTO;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
@@ -16,7 +16,7 @@ public class QuestionConverter {
     public QuestionConverter(QuestionTagRepository questionTagRepository) {
         this.questionTagRepository = questionTagRepository;
     }
-    public QuestionResponse QuestionToQuestionResponseDTO(Question question) {
+    public QuestionResponseDTO QuestionToQuestionResponseDTO(Question question) {
 
         List<String> tags = new ArrayList<>();
         List<Question_Tag> questionTags = questionTagRepository.findByQuestion(question);
@@ -25,7 +25,7 @@ public class QuestionConverter {
             tags.add(questionTag.getTag().getTag());
         }
 
-        return QuestionResponse.builder()
+        return QuestionResponseDTO.builder()
                 .id(question.getId())
                 .level(question.getLevel())
                 .number(question.getNumber())

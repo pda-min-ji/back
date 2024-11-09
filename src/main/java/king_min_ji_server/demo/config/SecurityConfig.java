@@ -32,6 +32,7 @@ public class SecurityConfig {
                         .requestMatchers(
                                 "/users/signUp",
                                 "/users/login",
+                                "/users/profile",
                                 "/users",
                                 "/rank/week",
                                 "/rank/total",

@@ -1,9 +1,12 @@
 package king_min_ji_server.demo.repository;
+import king_min_ji_server.demo.domain.Question;
 import king_min_ji_server.demo.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
+
+import java.util.List;
 import java.util.Optional;
 
 @Repository
@@ -12,5 +15,8 @@ public interface UserRepository extends JpaRepository<User, Long> {
     Optional<User> findByName(String name);
     @Query("SELECT u FROM User u WHERE u.bojId = :bojId")
     Optional<User> findByBojId(@Param("bojId") String bojId);
+
+    @Query("SELECT uq.question FROM User_Question uq WHERE uq.user.id = :userId")
+    List<Question> findSolvedQuestionsByUserId(@Param("userId") Long userId);
 
 }

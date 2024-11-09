@@ -4,7 +4,7 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 import king_min_ji_server.demo.apiPayload.ApiResponse;
 import king_min_ji_server.demo.service.QuestionService;
 import king_min_ji_server.demo.web.dto.CorrectRequest;
-import king_min_ji_server.demo.web.dto.QuestionResponse;
+import king_min_ji_server.demo.web.dto.QuestionResponseDTO;
 import king_min_ji_server.demo.web.dto.TotalPointResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -25,8 +25,8 @@ public class QuestionController {
     }
 
     @GetMapping("")
-    public ResponseEntity<ApiResponse<List<QuestionResponse>>> getRandomQuestion() {
-        List<QuestionResponse> responses = questionService.getRandomQuestion();
+    public ResponseEntity<ApiResponse<List<QuestionResponseDTO>>> getRandomQuestion() {
+        List<QuestionResponseDTO> responses = questionService.getRandomQuestion();
         return ResponseEntity.ok(ApiResponse.onSuccess(responses));
     }
 
