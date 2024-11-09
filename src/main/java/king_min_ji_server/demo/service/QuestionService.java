@@ -4,9 +4,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.transaction.Transactional;
 import king_min_ji_server.demo.converter.QuestionConverter;
-import king_min_ji_server.demo.domain.Question;
-import king_min_ji_server.demo.domain.Tag;
-import king_min_ji_server.demo.domain.User;
+import king_min_ji_server.demo.domain.*;
 import king_min_ji_server.demo.domain.mapping.Question_Tag;
 import king_min_ji_server.demo.domain.mapping.User_Question;
 import king_min_ji_server.demo.repository.*;
@@ -36,16 +34,24 @@ public class QuestionService {
     private final QuestionConverter questionConverter;
     private final UserRepository userRepository;
     private final UserQuestionRepository userQuestionRepository;
+    private final WeekRankingRepository weekRankingRepository;
+    private final TotalRankingRepository totalRankingRepository;
+    private final WeekRankService weekRankService;
+    private final TotalRankService totalRankService;
 
 
     @Autowired
-    public QuestionService(QuestionRepository questionRepository, TagRepository tagRepository, QuestionTagRepository questionTagRepository, QuestionConverter questionConverter, UserRepository userRepository, UserQuestionRepository userQuestionRepository) {
+    public QuestionService(QuestionRepository questionRepository, TagRepository tagRepository, QuestionTagRepository questionTagRepository, QuestionConverter questionConverter, UserRepository userRepository, UserQuestionRepository userQuestionRepository, WeekRankingRepository weekRankingRepository, TotalRankingRepository totalRankingRepository, WeekRankService weekRankService, TotalRankService totalRankService) {
         this.questionRepository = questionRepository;
         this.tagRepository = tagRepository;
         this.questionTagRepository = questionTagRepository;
         this.questionConverter = questionConverter;
         this.userRepository = userRepository;
         this.userQuestionRepository = userQuestionRepository;
+        this.weekRankingRepository = weekRankingRepository;
+        this.totalRankingRepository = totalRankingRepository;
+        this.weekRankService = weekRankService;
+        this.totalRankService = totalRankService;
     }
     // output.json DB 슈슉
     @Transactional
@@ -125,6 +131,53 @@ public class QuestionService {
                     .question(question)
                     .user(user)
                     .build();
+
+
+            // 주간 랭킹에 반영
+            Optional<Week_ranking> weekRanking = weekRankingRepository.findByBojId(bojId);
+            if (weekRanking.isPresent()) {
+                log.info("1");
+                Week_ranking ranking = weekRanking.get();
+                ranking.updateScore(ranking.getPoint() + userQuestion.getQuestion().getLevel());
+
+                weekRankingRepository.save(ranking);
+            } else {
+                log.info("2");
+                Week_ranking newWeekRanking = Week_ranking.builder()
+                        .bojId(user.getBojId())
+                        .name(user.getName())
+                        .imgPath("imgPath")
+                        .point(userQuestion.getQuestion().getLevel())
+                        .build();
+
+                weekRankingRepository.save(newWeekRanking);
+            }
+
+            // 주간 랭킹의 rank 업데이트
+            weekRankService.updateWeekRankingRanks();
+
+            // 종합 랭킹에 반영
+            Optional<Total_ranking> totalRanking = totalRankingRepository.findByBojId(bojId);
+            if (totalRanking.isPresent()) {
+                log.info("3");
+                Total_ranking ranking = totalRanking.get();
+                ranking.updateScore(ranking.getPoint() + userQuestion.getQuestion().getLevel());
+
+                totalRankingRepository.save(ranking);
+            } else {
+                log.info("4");
+                Total_ranking newTotalRanking = Total_ranking.builder()
+                        .bojId(user.getBojId())
+                        .name(user.getName())
+                        .imgPath("imgPath")
+                        .point(userQuestion.getQuestion().getLevel())
+                        .build();
+
+                totalRankingRepository.save(newTotalRanking);
+            }
+
+            // 종합 랭킹의 rank 업데이트
+            totalRankService.updateTotalRankingRanks();
 
             if (userQuestionRepository.findByUserAndQuestion(user, question).isPresent()) {
                 throw new RuntimeException("사용자가 이미 푼 문제입니다.");
