@@ -43,7 +43,8 @@ public class SecurityConfig {
                                 "/swagger-ui.html",
                                 "/webjars/**",
                                 "/questions",
-                                "/questions/correct"
+                                "/questions/correct",
+                                "/questions/points"
                         ).permitAll()
                         .requestMatchers("/batch/**","/users/signUp", "/users/login","/users").permitAll() // 인증 없이 접근 허용
                         .anyRequest().authenticated() // 나머지 요청은 인증 필요

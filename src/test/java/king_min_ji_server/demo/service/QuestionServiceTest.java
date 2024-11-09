@@ -4,6 +4,7 @@ import jakarta.transaction.Transactional;
 import king_min_ji_server.demo.repository.QuestionRepository;
 import king_min_ji_server.demo.repository.QuestionTagRepository;
 import king_min_ji_server.demo.web.dto.QuestionResponse;
+import king_min_ji_server.demo.web.dto.TotalPointResponse;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -64,6 +65,18 @@ public class QuestionServiceTest {
         Boolean answer = questionService.saveUserQuestion("jtkim965",1003);
 
         System.out.println(answer);
+    }
+
+    @Test
+    @Transactional
+    public void 유저가푼문제전부가져오기() {
+//        List<User_Question> list = questionService.getUserPoints();
+        List<TotalPointResponse> list = questionService.getUserPoints();
+
+        for (TotalPointResponse t : list) {
+            System.out.println(t.getBojId());
+            System.out.println(t.getTotalPoint());
+        }
     }
 
 }
