@@ -39,7 +39,8 @@ public class SecurityConfig {
                                 "/swagger-ui.html",
                                 "/webjars/**",
                                 "/questions",
-                                "/questions/correct"
+                                "/questions/correct",
+                                "/questions/points"
                         ).permitAll()
                         .requestMatchers("/batch/**").permitAll() // 배치 작업 경로 보안 제외
                         .anyRequest().authenticated()

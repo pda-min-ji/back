@@ -5,6 +5,7 @@ import king_min_ji_server.demo.apiPayload.ApiResponse;
 import king_min_ji_server.demo.service.QuestionService;
 import king_min_ji_server.demo.web.dto.CorrectRequest;
 import king_min_ji_server.demo.web.dto.QuestionResponse;
+import king_min_ji_server.demo.web.dto.TotalPointResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -34,5 +35,12 @@ public class QuestionController {
         Boolean response = questionService.saveUserQuestion(correctRequest.getBojId(), correctRequest.getQuestionNumber());
 
         return ResponseEntity.ok(ApiResponse.onSuccess(response));
+    }
+
+    @GetMapping("/points")
+    public ResponseEntity<ApiResponse<List<TotalPointResponse>>> getUserPoints() {
+        List<TotalPointResponse> list = questionService.getUserPoints();
+
+        return ResponseEntity.ok(ApiResponse.onSuccess(list));
     }
 }

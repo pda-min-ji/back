@@ -14,6 +14,7 @@ import king_min_ji_server.demo.repository.QuestionRepository;
 import king_min_ji_server.demo.repository.QuestionTagRepository;
 import king_min_ji_server.demo.repository.TagRepository;
 import king_min_ji_server.demo.web.dto.QuestionResponse;
+import king_min_ji_server.demo.web.dto.TotalPointResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
@@ -112,6 +113,7 @@ public class QuestionService {
         return dtos;
     }
 
+    @Transactional
     public Boolean saveUserQuestion(String bojId, int questionNumber) {
         User user = userRepository.findByBojId(bojId)
                 .orElseThrow(() -> new RuntimeException("사용자를 찾을 수 없습니다."));
@@ -134,6 +136,19 @@ public class QuestionService {
         } else {
             return false;
         }
+    }
+
+    public List<TotalPointResponse> getUserPoints() {
+        List<Object[]> results = userQuestionRepository.findSumOfAllUsersQuestionLevels();
+        List<TotalPointResponse> dtoList = new ArrayList<>();
+
+        for (Object[] result : results) {
+            String bojId = (String) result[0]; // bojId
+            int totalLevel = ((Number) result[1]).intValue(); // 레벨 합계
+            dtoList.add(new TotalPointResponse(bojId, totalLevel));
+        }
+
+        return dtoList;
     }
 
     private Boolean runIsCorrectAnswerJS(String bojId, String questionNumber) {
