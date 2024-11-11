@@ -14,6 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/questions")
+@CrossOrigin(origins = "http://localhost:5174")
 @Tag(name = "Question API", description = "Question API")
 public class QuestionController {
 
