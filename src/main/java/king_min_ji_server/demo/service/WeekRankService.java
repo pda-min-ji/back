@@ -18,7 +18,7 @@ public class WeekRankService {
     private final WeekRankingRepository weekRankingRepository;
 
     public List<RankResponseDTO.Week_rankRes> getWeeklyRankings() {
-        List<Week_ranking> weekRankings = weekRankingRepository.findAll();
+        List<Week_ranking> weekRankings = weekRankingRepository.findAllBySort();
         return Week_rankingConverter.toWeekRankList(weekRankings);
     }
 

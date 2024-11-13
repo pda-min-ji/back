@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/users")
-@CrossOrigin(origins = "http://localhost:5174")
+@CrossOrigin(origins = "http://15.165.253.181:5174")
 @RequiredArgsConstructor
 public class UserController {
 

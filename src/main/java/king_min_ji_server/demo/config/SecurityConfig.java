@@ -45,9 +45,15 @@ public class SecurityConfig {
                                 "/webjars/**",
                                 "/questions",
                                 "/questions/correct",
-                                "/questions/points"
+                                "/questions/points",
+				"/",               // index.html에 대한 요청 허용
+                                "/static/**",      // 모든 정적 리소스 허용
+                                "/index.html",     // React 메인 파일 직접 허용
+                                "/favicon.ico",
+				"/assets/**",
+				"/vite.svg"
                         ).permitAll()
-                        .requestMatchers("/batch/**","/users/signUp", "/users/login","/users").permitAll() // 인증 없이 접근 허용
+                        .requestMatchers("/batch/**","/users/signUp", "/users/login","/users","/").permitAll() // 인증 없이 접근 허용
                         .anyRequest().authenticated() // 나머지 요청은 인증 필요
                 )
                 .sessionManagement(session -> session
@@ -68,9 +74,9 @@ public class SecurityConfig {
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurer() {
             @Override
-            public void addCorsMappings(CorsRegistry registry) {
+	    public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**") // 모든 엔드포인트에 대해
-                        .allowedOrigins("http://localhost:5173") // 허용할 도메인 설정
+                        .allowedOrigins("http://localhost:5173","http://15.165.253.181:5173") // 허용할 도메인 설정
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);

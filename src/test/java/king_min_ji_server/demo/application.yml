@@ -1,14 +1,13 @@
 spring:
   profiles: test
   datasource:
-    url: jdbc:h2:mem:testdb
-    driver-class-name: org.h2.Driver
-    username: sa
-    password:
-    platform: h2
+    url: jdbc:mysql://15.165.253.181:3306/minji_db
+    driver-class-name: com.mysql.cg.jdbc.Driver
+    username: root
+    password: 1234
   jpa:
     hibernate:
-      ddl-auto: create-drop
+      ddl-auto: update
     show-sql: true
   batch:
     job:

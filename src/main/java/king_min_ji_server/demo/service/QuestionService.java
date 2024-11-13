@@ -146,6 +146,7 @@ public class QuestionService {
                 Week_ranking newWeekRanking = Week_ranking.builder()
                         .bojId(user.getBojId())
                         .name(user.getName())
+			.userId(user.getId())
                         .imgPath("imgPath")
                         .point(userQuestion.getQuestion().getLevel())
                         .build();
@@ -169,6 +170,7 @@ public class QuestionService {
                 Total_ranking newTotalRanking = Total_ranking.builder()
                         .bojId(user.getBojId())
                         .name(user.getName())
+			.userId(user.getId())
                         .imgPath("imgPath")
                         .point(userQuestion.getQuestion().getLevel())
                         .build();

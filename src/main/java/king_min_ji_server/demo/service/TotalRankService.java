@@ -18,7 +18,7 @@ public class TotalRankService {
     private final TotalRankingRepository totalRankingRepository;
 
     public List<RankResponseDTO.Total_rankRes> getTotalRankings() {
-        List<Total_ranking> totalRankings = totalRankingRepository.findAll();
+        List<Total_ranking> totalRankings = totalRankingRepository.findAllBySort();
         return Total_rankingConverter.toTotalRankList(totalRankings);
     }
 
